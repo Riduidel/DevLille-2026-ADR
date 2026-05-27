@@ -1,6 +1,6 @@
 ## Une décision c’est quoi ? .[hide-title]
 
-<iframe src="https://acedmodel.com/#banner" style="width: 100%; height: 100%"/>
+<iframe src="https://acedmodel.com/#banner" style="width: 100%; height: 100%; border-widdth: 0px"></iframe>
 
 /*
 
