@@ -1,13 +1,15 @@
-## Une décision c’est quoi ? .[full-size-iframe]
+## ACED peut être un cadre pour comprendre où se trouvent les décisions d'architecture .[full-size-iframe]
 
 <iframe src="https://acedmodel.com/#banner" style="width: 100%; height: 100%; border-widdth: 0px"></iframe>
 
 /*
 
-{Nicolas} Dans le modèle ACED, proposé par Jacqui Read, une architecte logicielle britanique expérimentée, il y a plusieurs étapes dans la construction d'un produit logiciel : le contexte, le design, l'architecture et l'engineering.
+{Nicolas} Qui connaît le modèle ACED ? 
 
-**TODO** Faire un rapide passage sur C4, puis revenir aux différents niveaux et axes de décision
+{Logan} Comme tous les modèles, il est faux, mais il est utile.
 
-**NOTE** Je pense qu'il faudra enrichir un peu plus, on verra en fonction du timing
+{Nicolas} Dans le modèle ACED, proposé par Jacqui Read, une architecte logicielle britanique, il y a plusieurs étapes dans la construction d'un produit logiciel : le contexte, le design, l'architecture et l'engineering.
+Ce modèle permet de définir les différentes responsabilités lors du développement d'un système, et aide à clarifier ce qui relève de l'architecture.<br/>
+**TRANSITION** En l'occurence, pour elle, l'architecture relève du pourquoi technique : pourquoi utilise-t-on un langage, une base de données ...
 
 */

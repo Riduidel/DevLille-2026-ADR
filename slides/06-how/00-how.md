@@ -5,7 +5,7 @@
 * Définir les alternatives
 * Etudier ces alternatives
 * Converger vers la décision
-* Prendre une décision claire
+* Ecrire une décision claire
 
 /*
 

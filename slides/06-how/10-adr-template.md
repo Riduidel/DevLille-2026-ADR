@@ -2,7 +2,7 @@
 
 * Titre
 * Statut
-* Contexte (Le problème à résoudre)
+* Contexte
 * Solutions possibles
-* Décision (Le choix effectué)
+* Décision
 * Conséquences

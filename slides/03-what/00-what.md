@@ -1,12 +1,11 @@
-## Qu'est-ce qu'une décision d'architecture ? .[steps]
-
-* Choisir un langage ?
-* Choisir une base de données ?
-* Choisir comment ranger les packages ?
-* Choisir comment implémenter une fonctionnalité ?
+## Qu'est-ce qu'une décision d'architecture ?
 
 /*
 
 {Logan} Une décision d'architecture, ça peut être bien des choses.
+
+{Logan} En revanche, on sait à peu près que c'est de l'ordre de la technique.
+
+{Nicolas} **TRANSITION** Le modèle ACED peut aider à éclairer ça.
 
 */
