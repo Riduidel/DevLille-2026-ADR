@@ -1,7 +1,3 @@
-/::
-add_styles: styles/dialogue.css, styles/solarized-light.css, styles/affichage.css
-::/
-
 ## .[cover]
 
 # ADR
