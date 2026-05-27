@@ -2,7 +2,11 @@
 
 /*
 
-{Nicolas} J’ai vu une développeuse qui voulait faire un truc, je lui ai dit de faire un ADR
+{Nicolas} Entre en scène avec du retard
+
+{Logan} Ben alors, t'es en retard à ta propre conf? T'avais rien de plus sérieux à faire ?
+
+{Nicolas} J’ai vu une développeuse qui avait des données à stocker, je lui ai dit de faire un ADR
 
 {Logan} Sans lui expliquer ce que c’est ?
 

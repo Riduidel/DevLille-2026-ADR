@@ -12,3 +12,15 @@
     visibility: hidden;
 }
 
+/* Afficher plus de texte dans les notes */
+:root {
+    --sd-sv-text-size: 20px;
+}
+
+#sd-sv-left {
+    width: 40%;
+}
+
+#sd-sv-right {
+    width: 80%;
+}
