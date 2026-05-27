@@ -1,5 +1,5 @@
 /::
-add_styles: dialogue.css, solarized-light.css
+add_styles: styles/dialogue.css, styles/solarized-light.css, styles/affichage.css
 ::/
 
 ## .[cover]
