@@ -2,3 +2,13 @@
     display:none;
     visibility: hidden;
 }
+
+.full-size-iframe {
+    padding: 0;
+}
+
+.full-size-iframe h2 {
+    display:none;
+    visibility: hidden;
+}
+
