@@ -1,0 +1,56 @@
+:root {
+    --solarized_base03: #002b36;
+    --solarized_base02: #073642;
+    --solarized_base01: #586e75;
+    --solarized_base00: #657b83;
+    --solarized_base0: #839496;
+    --solarized_base1: #93a1a1;
+    --solarized_base2: #eee8d5;
+    --solarized_base3: #fdf6e3;
+    --solarized_yellow: #b58900;
+    --solarized_orange: #cb4b16;
+    --solarized_red: #dc322f;
+    --solarized_magenta: #d33682;
+    --solarized_violet: #6c71c4;
+    --solarized_blue: #268bd2;
+    --solarized_cyan: #2aa198;
+    --solarized_green: #859900;
+
+    --background: var(--solarized_base3);
+    --background-alt: var(--solarized_base2);
+
+    --foreground: var(--solarized_base01);
+    --foreground-alt: var(--solarized_base1);
+
+    --red-color: var(--solarized_red);
+    --green-color: var(--solarized_green);
+    --yellow-color: var(--solarized_yellow);
+    --blue-color: var(--solarized_blue);
+    --purple-color: var(--solarized_magenta);
+    --aqua-color: var(--solarized_cyan);
+    --gray-color: var(--solarized_violet);
+    --orange-color: var(--solarized_orange);
+
+    /* slidev text */
+    --sd-heading1-size: 8.5vw;
+    --sd-heading1-line-height: 1;
+    --sd-heading2-size: 5vw;
+    --sd-heading2-line-height: 1;
+    --sd-text-size: 2.2vw;
+    --sd-text-line-height: 1.2;
+
+
+    /* Slidev colors */
+    --sd-background-color: var(--background);
+    --sd-heading-color: var(--blue-color);
+    --sd-text-color: var(--foreground);
+    --sd-primary-color: var(--foreground-alt);
+
+    /* SpeakerView */
+    --sd-sv-timer-size: 80px;
+    --sd-sv-text-size: 40px;
+    --sd-sv-text-line-height: 1.2;
+    --sd-sv-background-color: var(--background-alt);
+    --sd-sv-text-color:var(--text-color);
+
+}

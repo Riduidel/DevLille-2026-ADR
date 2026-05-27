@@ -1,0 +1,20 @@
+.Nicolas {
+    color: darkred
+}
+
+.Nicolas::before {
+    content: "Nicolas => "
+}
+
+.Logan {
+    color: darkblue
+}
+
+.Logan::before {
+    content: "Nicolas => "
+}
+
+.hide-title {
+    display:none;
+    visibility: hidden;
+}
