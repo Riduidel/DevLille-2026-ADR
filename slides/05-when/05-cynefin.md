@@ -47,6 +47,6 @@ Dans le domaine simple, les bonnes pratiques, les guidelines d'entreprise, les t
 
 Dans le domaine du chaotique, une communication claire siffura car la situation ne sera pas durable et il y aura très probablement d'autres décisions ou un retour à la normal qui invalideront très rapidement les décisions prise dans le passé proche.
 
-**TRANSITION** Maintenant qu'on a décidé qu'il était nécessaire de faire un ADR, comment on fait concrètement.
+{Nicolas} **TRANSITION** Maintenant qu'on a décidé qu'il était nécessaire de faire un ADR, comment on fait concrètement.
 
 */
