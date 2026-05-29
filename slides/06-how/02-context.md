@@ -1,7 +1,7 @@
 ## Clarifier le contexte
 
-* Besoins fonctionnels
-* Besoins techniques
+* Exigences fonctionnels
+* Exigences techniques
 * Contraintes de l'écosystème
 * Principes de l'équipe
 
@@ -14,7 +14,25 @@ On va naturellement y trouver différents éléments, qui méritent d'être trai
 
 ## Clarifier le contexte - exemple
 
-* Besoins fonctionnels - ce sont des indicateurs numériques multidimenssionnels
-* Besoins techniques - 15.000 technologies actuellement, les indicateurs sont récupérés par technologie
-* Contraintes de l'écosystème - on ne déploie pas de solution conteneurisée
-* Principes de l'équipe - les données doivent pouvoir être envoyées depuis différents postes
+* Exigences fonctionnels
+    * Indicateurs numériques multidimenssionnels (techno, editeur, stars, téléchargements)
+    * Comparaison par Techno et par Date (Courbes)
+* Exigences techniques
+    * 15.000 technologies actuellement
+    * Récupération par API
+    * Ségrégation par Techno
+* Contraintes de l'écosystème
+    * On ne déploie pas de solution conteneurisée
+    * Le stockage doit être sur le cloud français
+* Principes de l'équipe
+    * Respect des 12 Factors
+    * Utilisation des Enterprise Integration Patterns
+
+/*
+
+{Logan} "Récupération par API" : Je suis pas vraiment sur que ça va faire avancer la réflexion ça
+
+
+Utilisation des Enterprise Integration Patterns pour favoriser la découplage des flux de données
+
+*/

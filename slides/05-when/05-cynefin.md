@@ -4,10 +4,9 @@
 
 /*
 
-C'est un cadre conceptuel créé par Snowden et Boone (et je parle pas de Edward et de Danny).
+TODO: LOGAN pour une image plus claire en FR.
 
-
-{Logan} Ce cadre conceptuel se divise en 5 domaines :
+Ce cadre créé par Snowden et Boone (et je parle pas de Edward et de Danny) propose une classification en 5 domaines :
 - Simple / Evident / Clair : C'est le domaine des "connus connus"
     - La relation de cause à effet est évidente et connue
     - ==> sentir – catégoriser – réagir
@@ -17,7 +16,7 @@ C'est un cadre conceptuel créé par Snowden et Boone (et je parle pas de Edward
 - Complexe : C'est le domaine des "inconnus inconnus"
     - Le relation de cause à effet ne peut être anticipée, elle est uniquement retrospective
     - ==> explorer – sentir – réagir
-    - Loop OODA
+    - Loop OODA ? Ce serait chouette de mettre l'image dans le quart "Complexe"
 - Chaotique :
     - Agir est la seule réponse possible
     - Souvent en temps de crise
@@ -27,20 +26,19 @@ C'est un cadre conceptuel créé par Snowden et Boone (et je parle pas de Edward
 
 */
 
-## En quoi c'est utile ? .[steps]
+## En quoi Cynefin est utile ? .[steps]
 
 - Choisir un langage de programmation
 - Choisir une base de données
 - Choisir un Message-oriented Middleware
-- Remplacer un legacy monolithique
-- Désenchevêtrer 20 ans d'IT sans directive globale d'architecture
+- Intégrer des LLM dans l'entreprise
 
 
 /*
 
 {Logan}
 
-Donc on se rends compte que finalement, ce n'est peut-être pas utile de faire une ADR dans toutes les situations.
+Donc on se rends compte que finalement, ce n'est peut-être pas utile de faire un ADR dans toutes les situations.
 Une heuristique possible plutôt simple : Si la problématique à adresser tombe dans le domaine Compliqué ou Complexe, alors on fait un ADR.
 
 D'où l'importance de bien identifier la problématique à adresser.
