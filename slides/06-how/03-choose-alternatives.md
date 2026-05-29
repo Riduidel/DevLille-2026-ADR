@@ -17,3 +17,9 @@ Ces alternatives correspondent dans l'ordre aux points du contexte (pas la peine
 * Google BigQuery
 
 [[/right]]
+
+/*
+
+TODO:Logan Remettre au dernier format
+
+*/

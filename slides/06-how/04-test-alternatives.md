@@ -5,3 +5,10 @@ Créer des expériences reproductibles vérifiant comment les alternatives impl�
 ## Tester les alternatives - exemple
 
 On a testé l'hébergement des différentes plateformes, et Google BigQuery gagne évidement
+
+
+/*
+
+TODO:Logan Remettre au dernier format
+
+*/
