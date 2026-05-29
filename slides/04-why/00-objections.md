@@ -3,9 +3,11 @@
 * C'est fastidieux à écrire
 * C'est difficile de convaincre les collègues
 * Les architectes ont déja décidé
-* De toute façon, on change tous les ans de système de stockage
+* De toute façon, on change d'avis tous les ans
 
 /*
+
+TODO:Nicolas clarifier le message à l'oral
 
 {Nicolas} Qui n'a jamais rêvé d'économiser quelques heures de réunion pour dépenser quelques semaines de développement ?
 
@@ -15,6 +17,6 @@
 
 {Nicolas} La course pour rester sur place? (**TODO** Trouver un autre terme)
 
-{Logan} **TRANSITION** J'espère vous avoir montré par l'absurde la valeur d'un ADR.
+{Logan} **TRANSITION** En fait, il y a de très bonnes raisons de créer des ADR
 
 */

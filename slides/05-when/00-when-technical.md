@@ -1,5 +1,7 @@
 ## Quand doit-on écrire un ADR ? .[steps]
 
+TODO: Revoir les exemples
+
 * Quand on doit choisir un langage ?
 * Quand on doit choisir une base de données ?
 * Quand on doit choisir comment ranger les packages ?
