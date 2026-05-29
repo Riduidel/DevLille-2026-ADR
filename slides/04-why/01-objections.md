@@ -15,5 +15,6 @@
 
 {Nicolas} La course pour rester sur place? (**TODO** Trouver un autre terme)
 
-{Logan} **TRANSITION** J'espère vous avoirn montré par l'absurde la valeur d'un ADR.
+{Logan} **TRANSITION** J'espère vous avoir montré par l'absurde la valeur d'un ADR.
+
 */

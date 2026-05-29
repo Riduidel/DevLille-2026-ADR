@@ -1,7 +1,7 @@
 ## .[cover]
 
 # ADR
-De la documentation bureaucratique à la décision éclairante
+De la documentation bureaucratique à la décision ~~éclairante~~ éclairée
 
 /*
 

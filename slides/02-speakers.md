@@ -3,7 +3,7 @@
 
 [[left]]
 
-!image(../images/speaker_nd.jpg, , 400)
+!image(../images/speaker_nd.png, , 360)
 
 Nicolas Delsaux / [@riduidel@framapiaf.org on 🐘](https://framapiaf.org/users/riduidel)
 
@@ -16,6 +16,16 @@ Architecte de solutions/systèmes depuis 2015
 
 [[right]]
 
+!image(../images/speaker_lh.png, , 400)
+
 Logan Hauspie
+
+Développeur agnostique
+
+Architecte logiciel / solutions
+
+/*
+{Logan} Moi je mets pas de date, ya que les boomers qui font ça !
+*/
 
 [[/right]]
