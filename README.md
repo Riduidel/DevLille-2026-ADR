@@ -19,6 +19,7 @@ Simply run `docker run -it -v "$(pwd)"/:/slidesk/ -p 1337:1337 gouz/slidesk:late
 
 👤 **Logan Hauspie**
 
+* Website: http://lhauspie.wordpress.com
 * Github: [@lhauspie](https://github.com/lhauspie)
 
 ## Show your support

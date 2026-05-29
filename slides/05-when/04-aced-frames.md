@@ -9,4 +9,7 @@ D'abord, comment les quatre éléments interagissent, avec le contexte, défini 
 
 TODO:Nicolas clarifier
 
+{Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utilier.
+
+Pour ça, personnellement, je m'appuie sur le Cadre conceptuel Cynefin.
 */

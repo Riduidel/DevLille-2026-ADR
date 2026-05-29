@@ -2,7 +2,8 @@
 
 /*
 
-{Nicolas} Entre en scène avec du retard
+***Nicolas Entre en scène avec du retard***
+
 
 {Logan} Ben alors, t'es en retard à ta propre conf? T'avais rien de plus sérieux à faire ?
 
