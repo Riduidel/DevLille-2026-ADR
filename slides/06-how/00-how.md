@@ -6,6 +6,7 @@
 * Etudier ces alternatives
 * Converger vers la décision
 * Ecrire une décision claire
+* Se préparer aux conséquences
 
 /*
 
