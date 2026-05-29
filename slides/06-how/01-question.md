@@ -6,11 +6,11 @@
 
 {Nicolas} Bas il faut que je choisisse une BDD pour mon appli ?
 
-{Logan} Attends, c'est vraiment ça ton besoin ? ou t'es en train de chercher un moyen qui te permet de résoudre un problème que tu n'as pas encore exprimé ?
+{Logan} Attends, c'est vraiment ça ton besoin ? Ou t'es en train de chercher un moyen qui te permet de résoudre un problème que tu n'as pas encore exprimé ?
 
 {Nicolas} Ah non, je veux vraiment choisir une BDD.
 
-{Logan} Oui mais rends toi bien compte que tu choisiras pas de la même façon en fonction de ton besoin, des graphique batons, des relations multiple type réseau social, de l'agrégation de donnée... Tu n'apporteras pas la même réponse en fonction du problème à résoudre.
+{Logan} Oui mais rends toi bien compte que tu choisiras pas de la même façon en fonction de ton besoin, des graphiques en batons, des relations multiple type réseau social, de l'agrégation de données... Tu n'apporteras pas la même réponse en fonction du problème à résoudre.
 
 {Nicolas} Ah oui, d'accord dans ce sens là...
 

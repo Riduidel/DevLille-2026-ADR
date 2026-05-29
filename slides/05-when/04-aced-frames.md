@@ -11,9 +11,10 @@ TODO:Nicolas clarifier
 
 {Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.
 
-Toutes les décisions ne necessitent pas d'ADR comme les décisions les plus simples.
+Toutes les décisions ne nécessitent pas d'ADR comme les décisions les plus simples par exemple.
 
-Mais comment gagner en objectivité sur la classification de la complexité des décisions ?
+Mais comment évaluer la complexité d'un problème à résoudre ?
 
-Pour ça, je vous propose qu'on s'appuye sur le Cadre conceptuel Cynefin.
+Pour ça, je vous propose qu'on s'appuye sur le framework Cynefin.
+
 */
