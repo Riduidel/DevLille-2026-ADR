@@ -1,4 +1,4 @@
-## Mais alors, comment faire? .[steps]
+## Mais alors, comment faire ?
 
 * Poser la question
 * Clarifier le contexte
@@ -10,8 +10,9 @@
 
 /*
 
-Fondamentalement, un ADR est le résultat d'un processus basé sur la méthode scientifique permettant de répondre à une question d'ingénierie.
+{Nicolas}Fondamentalement, un ADR est le résultat d'un processus basé sur une approche scientifique (on même plutôt expérimentale) permettant de répondre à une question d'ingénierie.<br/>
+<br/>
+Voilà les différentes étapes et on va les détailler ensemble.
 
-Il faut donc plusieurs étapes
-
+TODO:Voir pour mettre une frise chronologique
 */

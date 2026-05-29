@@ -7,8 +7,10 @@
 
 /*
 
-Le contexte, c'est l'ensemble des choses qu'on ne peut pas changer.
+{Logan} Le contexte, c'est l'ensemble des choses qu'on ne peut pas changer.
 On va naturellement y trouver différents éléments, qui méritent d'être traités dans cet ordre.
+
+TODO:Logan Approfondir les contraintes de l'écosystème et les principes de l'équipe
 
 */
 
