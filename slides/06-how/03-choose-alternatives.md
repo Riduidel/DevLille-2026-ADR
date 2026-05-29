@@ -21,5 +21,6 @@ Ces alternatives correspondent dans l'ordre aux points du contexte (pas la peine
 /*
 
 TODO:Logan Remettre au dernier format
+{Logan} NE RIEN FAIRE EST TOUJOURS UNE OPTION
 
 */

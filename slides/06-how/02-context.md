@@ -26,14 +26,18 @@ TODO:Logan Approfondir les contraintes de l'écosystème et les principes de l'�
 * Contraintes de l'écosystème
     * On ne déploie pas de solution conteneurisée
     * Le stockage doit être sur le cloud français
+    * Ça doit être prêt pour la semaine prochaine
 * Principes de l'équipe
     * Respect des 12 Factors
     * Utilisation des Enterprise Integration Patterns
 
 /*
 
-{Logan} "Récupération par API" : Je suis pas vraiment sur que ça va faire avancer la réflexion ça
+{Logan}
+> "Récupération par API" : Je suis pas vraiment sur que ça va faire avancer la réflexion ça
 
+"Contraintes de l'écosystème"
+> Simon Brown : Plus le système est contraint plus la décision est simple.
 
 Utilisation des Enterprise Integration Patterns pour favoriser la découplage des flux de données
 
