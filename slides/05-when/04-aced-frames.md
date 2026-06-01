@@ -9,12 +9,9 @@ D'abord, comment les quatre éléments interagissent, avec le contexte, défini 
 
 TODO:Nicolas clarifier
 
-{Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.
-
-Toutes les décisions ne nécessitent pas d'ADR comme les décisions les plus simples par exemple.
-
-Mais comment évaluer la complexité d'un problème à résoudre ?
-
-Pour ça, je vous propose qu'on s'appuye sur le framework Cynefin.
+{Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.<br/>
+Toutes les décisions ne nécessitent pas d'ADR comme les décisions les plus simples par exemple.<br/>
+Mais comment évaluer la complexité d'un problème à résoudre ?<br/>
+Pour ça, je vous propose qu'on s'appuye sur le framework Cynefin.<br/>
 
 */
