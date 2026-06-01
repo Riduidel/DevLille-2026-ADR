@@ -24,3 +24,11 @@
 #sd-sv-right {
     width: 80%;
 }
+
+
+body {
+    background-image: url(../images/zenika-background.png);
+    background-position: bottom 10px left 10px;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
