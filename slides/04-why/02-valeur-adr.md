@@ -1,4 +1,4 @@
-## La valeur de l'ADR .[steps]
+## La valeur de l'ADR
 
 * Transparence
 * Alignement

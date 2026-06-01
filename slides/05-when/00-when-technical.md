@@ -1,11 +1,9 @@
 ## Quand doit-on écrire un ADR ? .[steps]
 
-TODO: Revoir les exemples
-
-* Quand on doit choisir un langage ?
-* Quand on doit choisir une base de données ?
-* Quand on doit choisir comment ranger les packages ?
-* Quand on doit choisir comment implémenter une fonctionnalité ?
+- Choisir un langage de programmation
+- Choisir une base de données
+- Choisir un Message-oriented Middleware
+- Intégrer des LLM dans l'entreprise
 
 /*
 

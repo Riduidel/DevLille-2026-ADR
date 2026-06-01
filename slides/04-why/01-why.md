@@ -1,6 +1,4 @@
-## Mais pourquoi faire un ADR ?
-
-TODO:Nicolas fix step and title
+## Avec des ADR, c'est la galère ?
 
 (La dernière va vous surprendre)
 
@@ -11,11 +9,9 @@ TODO:Nicolas fix step and title
 * Pour en parler à la machine à café (et en conférence) ?
 * Pour imposer une décision déjà prise ?
 
-
-
 /*
 
 {Nicolas} TODO reprendre le contenu
 
-{Logan} **TRANSITION** J'aimerais comprendre le process de la décision, parce qu'un processus d'ADR, ça amène des avantages ..
+{Logan} **TRANSITION** En fait, on l'exprime pour l'instant en creux, mais le processus de construction d'ADR apporte des avantages significatifs.
 */

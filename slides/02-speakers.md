@@ -3,20 +3,19 @@
 
 [[left]]
 
-!image(../images/speaker_nd.png, , 360)
+!image(../images/speaker_nd.png, , , 400)
 
-Nicolas Delsaux / [@riduidel@framapiaf.org on 🐘](https://framapiaf.org/users/riduidel)
+Nicolas Delsaux / [ on 🐘](https://framapiaf.org/users/riduidel)
 
-Développeur Java depuis l'an 2000
+Développeur Java
 
-Architecte de solutions/systèmes depuis 2015
-
+Architecte de solutions / systèmes
 
 [[/left]]
 
 [[right]]
 
-!image(../images/speaker_lh.png, , 400)
+!image(../images/speaker_lh.png, , , 400)
 
 Logan Hauspie
 
@@ -24,8 +23,12 @@ Développeur agnostique
 
 Architecte logiciel / solutions
 
+[[/right]]
+
+
 /*
-{Logan} Moi je mets pas de date, ya que les boomers qui font ça !
+{Nicolas} blablabla
+
+{Logan} blablabla
 */
 
-[[/right]]

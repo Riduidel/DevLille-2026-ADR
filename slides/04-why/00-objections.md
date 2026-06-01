@@ -1,4 +1,4 @@
-## Sans ADR, la vie est plus facile, non ? .[steps]
+## Sans ADR, la vie est plus facile, non ?
 
 * C'est fastidieux à écrire
 * C'est difficile de convaincre les collègues
@@ -7,16 +7,17 @@
 
 /*
 
-TODO:Nicolas clarifier le message à l'oral
+{Nicolas} Donc l'architecture essaye d'éclairer **pourquoi** on construit un produit d'un point de vue technique.<br/>
+Et il y a plein de bonnes raisons de ne pas chercher à écrire ce pourquoi
 
-{Nicolas} Qui n'a jamais rêvé d'économiser quelques heures de réunion pour dépenser quelques semaines de développement ?
+{Nicolas} C'est fastidieux à écrire ... Mais ça permet d'économiser en quelques heures de réunion des semaines ou des mois de développement.
 
-{Nicolas} Dans une équipe, prendre les discussions structurantes sans communiquer est la recette du succès.
+{Nicolas} C'est difficile de convaincre les collègues. Mais dans une équipe, prendre les discussions structurantes sans communiquer est la recette de l'échec.
 
-{Nicolas} C'est évident que les gens qui ne codent pas la solution sont le plus à même de faire les bons choix technologiques.
+{Nicolas} Les architectes ont déja décidé. Parce que c'est évident que les gens qui ne codent pas la solution sont le plus à même de faire les bons choix technologiques.
 
-{Nicolas} La course pour rester sur place? (**TODO** Trouver un autre terme)
+{Nicolas} De toute façon, on change d'avis tous les ans ... Sans doute parce que justement, on n'a jamais pris le temps d'écrire **pourquoi** on prenait cette décision.
 
-{Logan} **TRANSITION** En fait, il y a de très bonnes raisons de créer des ADR
+{Nicolas} **TRANSITION** En plus, les ADR viennent avec leurs propres problèmes ...
 
 */
