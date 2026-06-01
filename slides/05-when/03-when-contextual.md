@@ -7,7 +7,7 @@
 
 /*
 
-{Logan} On a vu dans nos expériences respectives des gens écrire des ADRR dans 
+{Logan} On a vu dans nos expériences respectives des gens écrire des ADR dans 
 
 {Logan} On voit des gens écrire des ADR dans ces différents contextes.<br/>
 

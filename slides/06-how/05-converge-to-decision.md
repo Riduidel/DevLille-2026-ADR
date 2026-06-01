@@ -22,6 +22,7 @@ Un peu comme une architecture finalement, elle ne se construit pas en 1 jour.
 
 */
 
+
 ## Converger vers une décision - exemple
 
 Dans notre cas, nous avons convenu que Google BigQuery était la solution la plus conforme à notre contexte et à notre besoin.

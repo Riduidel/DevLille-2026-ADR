@@ -19,4 +19,10 @@
 
 {Logan} **TRANSITION** Ben d'abord, je me présente parce que je suis poli
 
+
+PROPOSITION Logan :
+Inverser les rôles entre Nico et la développeuse.
+C'est Nicolas qui a la charge d'écrire l'ADR mais en fait elle ne lui a pas vraiment expliqué ce que c'était.
+Je ne sais pas à quel point ça affaiblirait le discours de Nicolas sur la première partie "What - Why - When".
+Mais je suis quasi sûr que ça renforcerait le "jeu de rôle" de la partie "How" 🤔
 */

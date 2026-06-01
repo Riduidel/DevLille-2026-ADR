@@ -18,11 +18,19 @@
 }
 
 #sd-sv-left {
-    width: 40%;
+    width: 30%;
 }
 
 #sd-sv-right {
-    width: 80%;
+    width: 70%;
+}
+
+#sd-sv-notes {
+    blockquote {
+        background: rgb(222, 215, 186);
+        padding-left: 5px;
+        border-left: solid 3px rgb(122, 115, 86);
+    }
 }
 
 

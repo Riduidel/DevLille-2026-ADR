@@ -6,3 +6,8 @@
 * Solutions possibles
 * Décision
 * Conséquences
+
+/*
+
+TODO: **A REVOIR AVEC NICO**
+*/

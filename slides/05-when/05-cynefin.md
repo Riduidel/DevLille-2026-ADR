@@ -17,7 +17,8 @@
 
 Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) proposent une classification en 5 domaines pour aider à la prise de décision.
 
----
+<br/>
+
 ***Simple / Evident / Clair : C'est le domaine des "connus connus"***
 > Imaginez une pièce avec un interrupteur et un ampoule.  
 > Quand on intéragit avec l'interrupteur l'état de l'ampoule change.  
@@ -25,16 +26,18 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 - La relation de cause à effet est évidente et connue
 - ==> sentir – catégoriser – réagir
 
----
+<br/>
+
 ***Compliqué : C'est le domaine des "inconnus connus"***
 > Imaginez maintenant une pièce avec 3 interrupteurs en va-et-vient étrange et une ampoule.  
-> Avec suffisamment d’analyse ou l’aide d’un expert, on peut prédire le comportement.
+> Avec suffisamment d’analyse ou l’aide d’un expert, on peut prédire le comportement.  
 > Et, même une fois la connaissance acquise, parfois vous vous tromperez sans cet expert.  
 
 - La relation entre cause et effet nécessite une analyse ou une expertise
 - ==> sentir – analyser – réagir
 
----
+<br/>
+
 ***Complexe : C'est le domaine des "inconnus inconnus"***
 > Quand vous souhaitez, chez vous, couper une seule prise de courant au tableau électrique.  
 > Qu'est ce vous faites en premier ?  
@@ -45,9 +48,10 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 - ==> explorer – sentir – réagir
 - Loop OODA ? Ce serait chouette de mettre l'image dans le quart "Complexe"
 
----
+<br/>
+
 ***Chaotique :***
-> Le dernier domaine c'est une maison avec des ampoules dans chaque pièce mais un seul interrupteur centralisée.  
+> Le quatrième domaine c'est une maison avec des ampoules dans chaque pièce mais un seul interrupteur centralisée.  
 > A chaque fois que vous appuyez sur l'interrupteur, le comportement des ampoules semble incohérent et non maîtrisable.  
 > Là on est clairement dans le chaos, même tenter d'apprendre comment il fonctionne est impossible.  
 
@@ -55,11 +59,12 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 - Souvent en temps de crise
 - ==> agir – sentir – réagir
 
----
+<br/>
+
 ***Confusion :***
-> Ce domaine est une maison inconnue plongée dans le noir
-> Vous entrez... Vous ne savez pas ce qu'il se passe !
-> Avant même de décider, il faut comprendre dans quel domaine on se trouve.
+> Ce dernier domaine est une maison inconnue plongée dans le noir.  
+> Vous entrez... Vous ne savez pas ce qu'il se passe !  
+> Avant même de décider, il faut comprendre dans quel domaine on se trouve.  
 - Quand ce n'est dans aucun des autres domaines
 - Le problème n’est pas **encore** classifiable
 - Une réponse apportée maintenant a de forte chance de ne pas convenir
@@ -90,13 +95,20 @@ Donc on se rend compte que finalement, ce n'est peut-être pas utile de faire un
 C’est surtout dans les domaines compliqués et complexe que les ADR apportent de la valeur.  
 D'où l'importance de bien identifier la problématique à adresser.  
 
+<br/>
 
 Dans le domaine simple, les bonnes pratiques, les guidelines d'entreprise, les tech-radar prendront le pas. Il semble inutile que 200 équipes écrivent le même ADR en disant "Nous avons suivi la guideline".
 
+<br/>
+
 Dans le domaine du chaotique, une communication claire suffira surement car la situation ne sera pas durable et il y aura très probablement d'autres décisions ou un retour à la normale qui invalideront très rapidement les décisions prises dans le passé proche.
+
+<br/>
 
 Aussi, un ADR n'aura surement pas la même physionomie en fonction du domaine de classification Cynefin.
 **Pour poursuivre, on va prendre l'exemple d'une problématique Compliqué qui nécessite une expertise.**
+
+<br/>
 
 {Nicolas} **TRANSITION** Maintenant qu'on a décidé qu'il était nécessaire de faire un ADR, et qu'on l'a classifié... **Comment on fait concrètement ?**
 
