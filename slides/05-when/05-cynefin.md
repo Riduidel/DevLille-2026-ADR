@@ -98,17 +98,6 @@ Dans le domaine du chaotique, une communication claire suffira surement car la s
 Aussi, un ADR n'aura surement pas la même physionomie en fonction du domaine de classification Cynefin.
 **Pour poursuivre, on va prendre l'exemple d'une problématique Compliqué qui nécessite une expertise.**
 
-*/
-
-## Quelques exemples ? .[steps]
-
-- Choisir un langage de programmation
-- Choisir une base de données
-- Choisir un Message-oriented Middleware
-- Intégrer des LLM dans l'entreprise
-
-/*
-
 {Nicolas} **TRANSITION** Maintenant qu'on a décidé qu'il était nécessaire de faire un ADR, et qu'on l'a classifié... **Comment on fait concrètement ?**
 
 */
