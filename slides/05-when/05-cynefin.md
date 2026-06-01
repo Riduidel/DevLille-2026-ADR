@@ -1,6 +1,17 @@
 ## Cynefin (/kəˈ nɛvɪn/) peut nous aider
 
+<table>
+<tr>
+<td></td>
+<td rowpan="2">
 !image(../../images/cynefin.png, , 1000)
+</td>
+<td></td>
+</tr>
+<td></td>
+<td></td>
+<tr>
+</tr>
 
 /*
 
@@ -57,10 +68,19 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 
 ## En quoi Cynefin est utile ?
 
-- Domaine Simple : Best-practices, Gouvernance, Standard, Guidelines
-- Domaine Compliqué : ADR souvent utiles
-- Domaine Complexe : ADR utiles mais de façon exploratoire / évolutive
-- Domaine Chaotique : Post-Mortem / Décision immédiate
+
+<table>
+<tr>
+<td style="text-align:right">ADR utiles mais de façon exploratoire / évolutive</td>
+<td rowspan="2">
+!image(../../images/cynefin.png, , 1000)
+</td>
+<td>ADR souvent utiles</td>
+</tr>
+<td style="text-align:right">Post-Mortem / Décision immédiate</td>
+<td>Best-practices, Gouvernance, Standard, Guidelines</td>
+<tr>
+</tr>
 
 /*
 
