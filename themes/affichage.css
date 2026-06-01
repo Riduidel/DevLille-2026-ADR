@@ -40,3 +40,19 @@ body {
     background-repeat: no-repeat;
     background-size: 50px;
 }
+
+.sd-slide.sd-current.fade-in {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.fade-out + .fade-in {
+    transform: translateX(0);
+    opacity: 0;
+    z-index: 1;
+}
+
+.sd-slide.sd-previous.fade-out {
+    transform: translateX(0);
+    opacity: 0;
+}

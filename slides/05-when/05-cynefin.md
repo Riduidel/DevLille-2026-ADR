@@ -1,4 +1,4 @@
-## Cynefin (/kəˈ nɛvɪn/) peut nous aider
+## Cynefin (/kəˈ nɛvɪn/) peut nous aider .[fade-out]
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 
 */
 
-## En quoi Cynefin est utile ?
+## En quoi Cynefin est utile ? .[fade-in]
 
 
 <table>
