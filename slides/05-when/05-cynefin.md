@@ -30,9 +30,12 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 <br/>
 
 ***Compliqué : C'est le domaine des "inconnus connus"***
-> Imaginez maintenant une pièce avec 3 interrupteurs en va-et-vient étrange et une ampoule.  
-> Avec suffisamment d’analyse ou l’aide d’un expert, on peut prédire le comportement.  
-> Et, même une fois la connaissance acquise, parfois vous vous tromperez sans cet expert.  
+> Imaginez maintenant que votre chaudière ne fonctionne plus
+> Il peut y avoir plusieurs causes possibles
+> 2 possibilités :
+> - vous tentez des choses vous-même (quite à empirer le problème)
+> - vous appeler le plombier
+> La prochaine fois que ça arrive vous ferez ce qu'a fait le plombier mais sans vraiment savoir si ça va avoir le même effet
 
 - La relation entre cause et effet nécessite une analyse ou une expertise
 - ==> sentir – analyser – réagir
@@ -40,21 +43,27 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 <br/>
 
 ***Complexe : C'est le domaine des "inconnus inconnus"***
-> Quand vous souhaitez, chez vous, couper une seule prise de courant au tableau électrique.  
-> Qu'est ce vous faites en premier ?  
-> Une personne se met à la prise de courant, une autre au tableau.  
-> Et on pose la question "Et là, c'est coupé ? Et là ?". 
+> La météo est un système complexe par excellence
+> On connait globalement les variables qui influencent la météo (pression, température, vent)
+> Mais à situation de départ et à variables équivalentes, la météo évoluera différemment
+> On a bien des modèles de prédiction mais impossible de prédire avec exactitude même en faisant appel aux plus grands experts
 
-- La relation de cause à effet n’est pas prédictible à l’avance de manière fiable. Elle se comprend par expérimentation.
+- La relation de cause à effet est instable et difficile à prévoir. Elle se comprend par expérimentation.
 - ==> explorer – sentir – réagir
 - Loop OODA ? Ce serait chouette de mettre l'image dans le quart "Complexe"
 
 <br/>
 
 ***Chaotique :***
-> Le quatrième domaine c'est une maison avec des ampoules dans chaque pièce mais un seul interrupteur centralisée.  
-> A chaque fois que vous appuyez sur l'interrupteur, le comportement des ampoules semble incohérent et non maîtrisable.  
-> Là on est clairement dans le chaos, même tenter d'apprendre comment il fonctionne est impossible.  
+> Imaginez que vous êtes en train de cuisiner et que l’huile dans la poêle prend feu.
+> À ce moment-là :
+> - vous n’analysez pas les causes
+> - vous ne cherchez pas la meilleure théorie
+> - vous n’appelez pas un expert pour diagnostiquer
+> Vous agissez immédiatement :
+> - couper le feu
+> - mettre un couvercle
+> - éloigner ce qui peut brûler
 
 - Le premier objectif n’est plus de comprendre le système, mais de reprendre le contrôle
 - Souvent en temps de crise
@@ -66,8 +75,9 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 > Ce dernier domaine est une maison inconnue plongée dans le noir.  
 > Vous entrez... Vous ne savez pas ce qu'il se passe !  
 > Avant même de décider, il faut comprendre dans quel domaine on se trouve.  
+
 - Quand ce n'est dans aucun des autres domaines
-- Le problème n’est pas **encore** classifiable
+- Le problème n’est **pas encore** classifiable
 - Une réponse apportée maintenant a de forte chance de ne pas convenir
 
 */

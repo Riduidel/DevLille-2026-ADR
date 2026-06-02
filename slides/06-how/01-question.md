@@ -17,7 +17,7 @@
 
 /*
 
-V1
+PROPOSITION:Logan V1 ==>
 
 ---
 
@@ -52,11 +52,12 @@ V1
 {Nicolas} **TRANSITION**
 
 ---
+<== PROPOSITION:Logan V1
 
 <br/>
 <br/>
 
-V2
+PROPOSITION:Logan V2 ==>
 
 ---
 
@@ -100,11 +101,12 @@ V2
 
 ---
 
+<== PROPOSITION:Logan V2
 
 <br/>
 <br/>
 
-V3
+PROPOSITION:Logan V3 ==>
 
 ---
 
@@ -130,6 +132,8 @@ V3
 
 {Nicolas} **TRANSITION** On cherche à stocker des indicateurs de popularité de technologies
 ---
+
+<== PROPOSITION:Logan V3
 
 */
 

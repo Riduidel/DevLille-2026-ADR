@@ -10,7 +10,7 @@ Puis comment l'architecture fonctionnelle influence le design des systèmes.<br/
 <br/>
 Notez que dans ce schéma, les sous-systèmes et modules peuvent être remplacés par des conteneurs et composants au sens C4.<br/>
 <br/>
-Mais aussi comment l'architecture d'un systèmle définit l'engineering d'un système, ou comment l'engineering d'un module peut impact l'architecture d'un sous-système.<br/>
+Mais aussi comment l'architecture d'un système définit l'engineering d'un système, ou comment l'engineering d'un module peut impacter l'architecture d'un sous-système.<br/>
 
 * Un architecte fonctionnel peut prendre une décision concernant l'architecture de systèmes.
 * Un architecte de système peut définir l'implémentation d'un sous-système.

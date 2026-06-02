@@ -14,6 +14,9 @@ Créer des expériences reproductibles vérifiant comment les alternatives impl�
 
 /*
 
+DOUTE:Logan ==> Je pense qu'il va falloir des exemples pour que les gens comprennent où tu veux en venir.
+DOUTE:Logan ==> Moi perso, je comprends pas grand chose là :/
+
 */
 
 

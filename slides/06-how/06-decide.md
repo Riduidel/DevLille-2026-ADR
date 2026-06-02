@@ -1,6 +1,5 @@
 ## Ecrire une décision claire .[fade-in fade-out hide-title]
 
-
 <nav class="breadcrumbs">
   <a class="">Poser la question</a>
   <a class="">Clarifier le contexte</a>
@@ -14,6 +13,8 @@
 La décision doit reprendre l'ensemble des critères qui y ont mené.
 
 /*
+
+PROPOSITION:Logan ==> Parler ici de Matrice de décision ?
 
 */
 
@@ -32,5 +33,7 @@ La décision doit reprendre l'ensemble des critères qui y ont mené.
 > L'ensemble des données sont stockées dans une base Google BigQuery hébergée dans une région bas carbone.
 
 /*
+
+PROPOSITION:Logan ==> mettre un exemple de matrice de décision avec les critères de décisions ?
 
 */

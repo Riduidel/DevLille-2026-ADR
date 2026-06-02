@@ -33,5 +33,17 @@ Architecte logiciel / solutions
 {Nicolas} blablabla
 
 {Logan} blablabla
+
+- Merci à Zenika
+    - Conseil
+    - Formation
+    - Expertise
+- ON RECRUTE
+
+**TRANSITION**
+On va vous parler des ADR, les Architecture Decision Records.
+Mais avant de parler concrètement des ADR, on aimerait se mettre tous sur la même longueur d'onde.
+
+C'est quoi exactement une décision d'architecture ?
 */
 

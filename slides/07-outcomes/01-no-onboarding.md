@@ -4,6 +4,6 @@
 
 /*
 
-Pour ça, il ya diataxis
+Pour ça, il y a diataxis
 
 */
