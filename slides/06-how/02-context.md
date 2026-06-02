@@ -1,13 +1,13 @@
 ## Clarifier le contexte .[fade-in fade-out hide-title]
 
 <nav class="breadcrumbs">
-  <a class="breadcrumbs__item">Poser la question</a>
-  <a class="breadcrumbs__item is-active">Clarifier le contexte</a>
-  <a class="breadcrumbs__item">Définir les alternatives</a>
-  <a class="breadcrumbs__item">Etudier ces alternatives</a>
-  <a class="breadcrumbs__item">Converger vers la décision</a>
-  <a class="breadcrumbs__item">Ecrire une décision claire</a>
-  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+  <a class="">Poser la question</a>
+  <a class="is-active">Clarifier le contexte</a>
+  <a class="">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
 </nav>
 
 
@@ -15,6 +15,8 @@
 * Exigences non-fonctionnelles
 * Contraintes de l'écosystème
 * Principes de l'équipe
+
+⚠️ Il faut autant que possible fournir les indicateurs mesurables associés
 
 /*
 
@@ -57,22 +59,22 @@ Pour ce qui est des ***Principes***, là aussi, tu peux ratisser large :
 ## Exemple .[fade-in fade-out hide-title]
 
 <nav class="breadcrumbs">
-  <a class="breadcrumbs__item">Poser la question</a>
-  <a class="breadcrumbs__item is-active">Clarifier le contexte</a>
-  <a class="breadcrumbs__item">Définir les alternatives</a>
-  <a class="breadcrumbs__item">Etudier ces alternatives</a>
-  <a class="breadcrumbs__item">Converger vers la décision</a>
-  <a class="breadcrumbs__item">Ecrire une décision claire</a>
-  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+  <a class="">Poser la question</a>
+  <a class="is-active">Clarifier le contexte</a>
+  <a class="">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
 </nav>
 
 * Exigences fonctionnels
-    * Indicateurs numériques multidimensionnels (techno, éditeur, stars, téléchargements)
-    * Comparaison par Techno et par Date (Courbes)
+    * Indicateurs numériques multidimensionels et temporels (librairie, stars, téléchargements, questions, ...)
+    * Comparaison par librairie et par Date (Courbes)
 * Exigences non-fonctionnelles
     * 15.000 technologies actuellement
     * Récupération par API
-    * Ségrégation par Techno
+    * Recherche par librairie
 * Contraintes de l'écosystème
     * On ne déploie pas de solution conteneurisée
     * Le stockage doit être sur un cloud français
@@ -99,3 +101,29 @@ Pour ce qui est des ***Principes***, là aussi, tu peux ratisser large :
 > Pour favoriser la découplage des flux de données.
 
 */
+## Exemple .[fade-in fade-out hide-title]
+
+<nav class="breadcrumbs">
+  <a class="">Poser la question</a>
+  <a class="is-active">Clarifier le contexte</a>
+  <a class="">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
+</nav>
+
+
+* Exigences fonctionnels
+    * Indicateurs numériques multidimensionels et temporels (librairie, stars, téléchargements, questions, ...)
+    * Comparaison par librairie et par Date (Courbes)
+* Exigences non-fonctionnelles
+    * 15.000 technologies actuellement
+    * Recherche par librairie
+* Contraintes de l'écosystème
+    * On ne déploie pas de solution conteneurisée
+    * Le stockage doit être sur un cloud français
+    * Ça doit être prêt pour la semaine prochaine
+* Principes de l'équipe
+    * Respect des 12 Factors
+    * Utilisation des Enterprise Integration Patterns

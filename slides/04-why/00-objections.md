@@ -18,6 +18,6 @@ Et il y a plein de bonnes raisons de ne pas chercher à écrire ce pourquoi
 
 {Nicolas} De toute façon, on change d'avis tous les ans ... Sans doute parce que justement, on n'a jamais pris le temps d'écrire **pourquoi** on prenait cette décision.
 
-{Nicolas} **TRANSITION** En plus, les ADR viennent avec leurs propres problèmes ...
+{Nicolas} **TRANSITION** Les ADR vont vous apporter des éléments positifs.
 
 */

@@ -1,5 +1,7 @@
 ## Avec des ADR, c'est la galère ?
 
+A supprimer: tout ça doit être dit, mais pas écrit, ça casse le rythme
+
 (La dernière va vous surprendre)
 
 * Parce qu'on me l'a demandé ?

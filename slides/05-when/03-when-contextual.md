@@ -1,7 +1,7 @@
 ## Quand doit-on écrire un ADR ? .[steps]
 
 * Quand ça impacte l'organisation du projet ?
-* Quand ça impacte la capacité à satisfaire les exigences (fonctionnels comme techniques) ?
+* Quand ça impacte la capacité à satisfaire les exigences (fonctionnelles comme techniques) ?
 * Quand ça impacte les compétences nécessaires ?
 * Quand ça impacte le time to market ?
 

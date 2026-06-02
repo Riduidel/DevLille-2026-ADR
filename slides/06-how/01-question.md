@@ -2,13 +2,13 @@
 
 
 <nav class="breadcrumbs">
-  <a class="breadcrumbs__item is-active">Poser la question</a>
-  <a class="breadcrumbs__item">Clarifier le contexte</a>
-  <a class="breadcrumbs__item">Définir les alternatives</a>
-  <a class="breadcrumbs__item">Etudier ces alternatives</a>
-  <a class="breadcrumbs__item">Converger vers la décision</a>
-  <a class="breadcrumbs__item">Ecrire une décision claire</a>
-  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+  <a class="Explorer des alternatives is-active">Poser la question</a>
+  <a class="">Clarifier le contexte</a>
+  <a class="">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
 </nav>
 
 - Le besoin
@@ -136,16 +136,16 @@ V3
 ## Exemple .[fade-in fade-out hide-title]
 
 <nav class="breadcrumbs">
-  <a class="breadcrumbs__item is-active">Poser la question</a>
-  <a class="breadcrumbs__item">Clarifier le contexte</a>
-  <a class="breadcrumbs__item">Définir les alternatives</a>
-  <a class="breadcrumbs__item">Etudier ces alternatives</a>
-  <a class="breadcrumbs__item">Converger vers la décision</a>
-  <a class="breadcrumbs__item">Ecrire une décision claire</a>
-  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+  <a class="is-active">Poser la question</a>
+  <a class="">Clarifier le contexte</a>
+  <a class="">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
 </nav>
 
-> Comment stocker et exploiter des indicateurs de popularité des technologies ?
+> Comment stocker et exploiter des indicateurs de popularité de technologie ?
 
 /*
 

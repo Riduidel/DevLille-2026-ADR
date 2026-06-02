@@ -4,7 +4,7 @@
 <tr>
 <td style="text-align:right; visibility: hidden;">ADR utiles mais de façon exploratoire / évolutive</td>
 <td rowspan="2">
-!image(../../images/cynefin.png, , 1000)
+!image(../../images/cynefin.png, , 800)
 </td>
 <td style="visibility: hidden;">ADR souvent utiles</td>
 </tr>
@@ -24,7 +24,7 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 > Imaginez une pièce avec un interrupteur et un ampoule.  
 > Quand on intéragit avec l'interrupteur l'état de l'ampoule change.  
 > Le comportement est attendu, stable et connu.  
-- La relation de cause à effet est évidente et connue
+- La relation de cause à effet est évidente et connue (d'où le **C** et le **E** dans le diagramme)
 - ==> sentir – catégoriser – réagir
 
 <br/>
@@ -77,14 +77,14 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 
 <table>
 <tr>
-<td style="text-align:right">ADR utiles mais de façon exploratoire / évolutive</td>
+<td style="text-align:right; vertical-align:top">ADR utiles mais de façon exploratoire / évolutive</td>
 <td rowspan="2">
-!image(../../images/cynefin.png, , 1000)
+!image(../../images/cynefin.png, , 800)
 </td>
-<td>ADR souvent utiles</td>
+<td style="vertical-align:top">ADR souvent utiles</td>
 </tr>
-<td style="text-align:right">Post-Mortem / Décision immédiate</td>
-<td>Best-practices, Gouvernance, Standard, Guidelines</td>
+<td style="text-align:right; vertical-align: bottiom;">Post-Mortem / Décision immédiate</td>
+<td style="vertical-align: bottiom;">Best-practices, Gouvernance, Standard, Guidelines</td>
 <tr>
 </tr>
 </table>

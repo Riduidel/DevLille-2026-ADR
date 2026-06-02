@@ -1,20 +1,18 @@
-## Définir des alternatives .[fade-in fade-out hide-title]
+## Explorer des alternatives .[fade-in fade-out hide-title]
 
 Ces alternatives correspondent dans l'ordre aux points du contexte
 
 <nav class="breadcrumbs">
-  <a class="breadcrumbs__item">Poser la question</a>
-  <a class="breadcrumbs__item">Clarifier le contexte</a>
-  <a class="breadcrumbs__item is-active">Définir les alternatives</a>
-  <a class="breadcrumbs__item">Etudier ces alternatives</a>
-  <a class="breadcrumbs__item">Converger vers la décision</a>
-  <a class="breadcrumbs__item">Ecrire une décision claire</a>
-  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+  <a class="">Poser la question</a>
+  <a class="">Clarifier le contexte</a>
+  <a class="is-active">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
 </nav>
 
 /*
-
-{Nicolas} (pas la peine d'être exotique par snobisme)
 
 {Logan} Ça c'est la partie un peu créative que j'affectionne. C'est là qu'il va falloir imaginer des solutions qui respectent l'ensemble des éléments contraignants la décision d'architecture.
 
@@ -28,16 +26,16 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 */
 
 
-## Définir des alternatives - exemple .[fade-in fade-out hide-title #split]
+## Explorer des alternatives - exemple .[fade-in fade-out hide-title #split]
 
 <nav class="breadcrumbs">
-  <a class="breadcrumbs__item">Poser la question</a>
-  <a class="breadcrumbs__item">Clarifier le contexte</a>
-  <a class="breadcrumbs__item is-active">Définir les alternatives</a>
-  <a class="breadcrumbs__item">Etudier ces alternatives</a>
-  <a class="breadcrumbs__item">Converger vers la décision</a>
-  <a class="breadcrumbs__item">Ecrire une décision claire</a>
-  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+  <a class="">Poser la question</a>
+  <a class="">Clarifier le contexte</a>
+  <a class="is-active">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
 </nav>
 
 [[left]]
@@ -48,6 +46,7 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 
 [[right]]
 
+* Ne pas ajouter de base de données
 * PostgreSQL
 * MongoDB
 * Google BigQuery
@@ -56,7 +55,8 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 
 /*
 
-TODO:Logan Remettre au dernier format
-{Logan} NE RIEN FAIRE EST TOUJOURS UNE OPTION
+{Logan} NE RIEN FAIRE EST TOUJOURS UNE OPTION, mais souvent, elle est peu réaliste.
+
+{Logan} Par ailleurs, je vois apparaître PostgreSQL et MongoDB. Ca ne peut pas correspondre aux contraintes ? Ou alors tu as l'intention de faire du Aiven ?
 
 */
