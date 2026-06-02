@@ -1,4 +1,14 @@
-## Converger vers une décision .[#split]
+## Converger vers une décision  .[fade-in fade-out hide-title #split]
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item">Poser la question</a>
+  <a class="breadcrumbs__item">Clarifier le contexte</a>
+  <a class="breadcrumbs__item">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item is-active">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 [[left]]
 
@@ -22,8 +32,17 @@ Un peu comme une architecture finalement, elle ne se construit pas en 1 jour.
 
 */
 
+## Exemple .[fade-in fade-out hide-title]
 
-## Converger vers une décision - exemple
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item">Poser la question</a>
+  <a class="breadcrumbs__item">Clarifier le contexte</a>
+  <a class="breadcrumbs__item">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item is-active">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 Dans notre cas, nous avons convenu que Google BigQuery était la solution la plus conforme à notre contexte et à notre besoin.
 

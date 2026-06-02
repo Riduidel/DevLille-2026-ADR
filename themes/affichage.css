@@ -41,6 +41,15 @@ body {
     background-size: 50px;
 }
 
+.breadcrumbs {
+    position: absolute;
+    overflow: hidden;
+    top: 4em;
+    left: 0; 
+    right: 0; 
+    margin-inline: auto; 
+    width: fit-content;
+}
 .sd-slide.sd-current.fade-in {
     transform: translateX(0);
     opacity: 1;
@@ -55,4 +64,13 @@ body {
 .sd-slide.sd-previous.fade-out {
     transform: translateX(0);
     opacity: 0;
+}
+.breadcrumbs {
+    position: absolute;
+    overflow: hidden;
+    top: 4em;
+    left: 0; 
+    right: 0; 
+    margin-inline: auto; 
+    width: fit-content;
 }

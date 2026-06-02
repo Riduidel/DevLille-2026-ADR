@@ -1,4 +1,15 @@
-## Poser la question
+## Poser la question .[fade-in fade-out hide-title]
+
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item is-active">Poser la question</a>
+  <a class="breadcrumbs__item">Clarifier le contexte</a>
+  <a class="breadcrumbs__item">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 - Le besoin
 - Le problème à résoudre
@@ -122,7 +133,17 @@ V3
 
 */
 
-## Poser la question - exemple
+## Exemple .[fade-in fade-out hide-title]
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item is-active">Poser la question</a>
+  <a class="breadcrumbs__item">Clarifier le contexte</a>
+  <a class="breadcrumbs__item">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 > Comment stocker et exploiter des indicateurs de popularité des technologies ?
 

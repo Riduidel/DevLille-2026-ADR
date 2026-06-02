@@ -1,4 +1,15 @@
-## Clarifier le contexte
+## Clarifier le contexte .[fade-in fade-out hide-title]
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item">Poser la question</a>
+  <a class="breadcrumbs__item is-active">Clarifier le contexte</a>
+  <a class="breadcrumbs__item">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
+
 
 * Exigences fonctionnelles
 * Exigences non-fonctionnelles
@@ -43,7 +54,17 @@ Pour ce qui est des ***Principes***, là aussi, tu peux ratisser large :
 
 */
 
-## Clarifier le contexte - exemple
+## Exemple .[fade-in fade-out hide-title]
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item">Poser la question</a>
+  <a class="breadcrumbs__item is-active">Clarifier le contexte</a>
+  <a class="breadcrumbs__item">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 * Exigences fonctionnels
     * Indicateurs numériques multidimensionnels (techno, éditeur, stars, téléchargements)

@@ -1,6 +1,16 @@
-## Définir des alternatives
+## Définir des alternatives .[fade-in fade-out hide-title]
 
 Ces alternatives correspondent dans l'ordre aux points du contexte
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item">Poser la question</a>
+  <a class="breadcrumbs__item">Clarifier le contexte</a>
+  <a class="breadcrumbs__item is-active">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 /*
 
@@ -18,11 +28,21 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 */
 
 
-## Définir des alternatives - exemple .[hide-title #split]
+## Définir des alternatives - exemple .[fade-in fade-out hide-title #split]
+
+<nav class="breadcrumbs">
+  <a class="breadcrumbs__item">Poser la question</a>
+  <a class="breadcrumbs__item">Clarifier le contexte</a>
+  <a class="breadcrumbs__item is-active">Définir les alternatives</a>
+  <a class="breadcrumbs__item">Etudier ces alternatives</a>
+  <a class="breadcrumbs__item">Converger vers la décision</a>
+  <a class="breadcrumbs__item">Ecrire une décision claire</a>
+  <a class="breadcrumbs__item">Se préparer aux conséquences</a>
+</nav>
 
 [[left]]
 
-!image(https://www.ml4devs.com/images/illustrations/sql-vs-nosql-cheatsheet.webp, , , 900px, , 'Source: https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/')
+!image(https://www.ml4devs.com/images/illustrations/sql-vs-nosql-cheatsheet.webp, , , 750px, , 'Source: https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/')
 
 [[/left]]
 
@@ -37,7 +57,6 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 /*
 
 TODO:Logan Remettre au dernier format
-
 {Logan} NE RIEN FAIRE EST TOUJOURS UNE OPTION
 
 */
