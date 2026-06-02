@@ -1,17 +1,18 @@
-## Cynefin (/kəˈ nɛvɪn/) peut nous aider .[fade-out]
+## Cynefin (/kəˈ nɛvɪn/) peut nous aider .[fade-out animate]
 
 <table>
 <tr>
-<td></td>
-<td rowpan="2">
+<td style="text-align:right; visibility: hidden;">ADR utiles mais de façon exploratoire / évolutive</td>
+<td rowspan="2">
 !image(../../images/cynefin.png, , 1000)
 </td>
-<td></td>
+<td style="visibility: hidden;">ADR souvent utiles</td>
 </tr>
-<td></td>
-<td></td>
+<td style="text-align:right; visibility: hidden;">Post-Mortem / Décision immédiate</td>
+<td style="visibility: hidden;">Best-practices, Gouvernance, Standard, Guidelines</td>
 <tr>
 </tr>
+</table>
 
 /*
 
@@ -71,7 +72,7 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 
 */
 
-## En quoi Cynefin est utile ? .[fade-in]
+## En quoi Cynefin est utile ? .[fade-in animate]
 
 
 <table>
@@ -86,6 +87,7 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 <td>Best-practices, Gouvernance, Standard, Guidelines</td>
 <tr>
 </tr>
+</table>
 
 /*
 
