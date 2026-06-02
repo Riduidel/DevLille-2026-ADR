@@ -7,8 +7,6 @@
 
 /*
 
-{Logan} On a vu dans nos expériences respectives des gens écrire des ADR dans 
-
 {Logan} On voit des gens écrire des ADR dans ces différents contextes.<br/>
 
 {Nicolas} **TRANSITION** Mais si on reprend le modèle ACED, on voit bien comment le contexte, le design, l'architecture et l'ingénierie influent l'un sur l'autre.
