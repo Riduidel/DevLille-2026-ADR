@@ -15,13 +15,7 @@
 
 {Logan} Mais elle va discuter avec toi avant de le valider, non ? NON ?
 
-DOUTE:Logan ==> J'ai un gros doute sur la tournure de la suite, elle me semble incohérente
-DOUTE:Logan ==> Pourquoi tu me demanderais pourquoi je fais des ADRs sachant que tu l'as toi-même demandé à une développeuse
-DOUTE:Logan ==> Ça ressemble à une rupture de sens dans l'histoire pour moi
-
-{Nicolas} Ben, tu les fais pourquoi les ADR ?
-
-<== DOUTE:Logan
+{Nicolas} Attends, tu crois que je lui demande de faire un ADR pour qu'on discute ensemble ? Moi je croyais juste que c'était pour la forcer à poser sa décision et à la tracer quelque part !
 
 {Logan} **TRANSITION** Ben d'abord, je me présente parce que je suis poli
 
