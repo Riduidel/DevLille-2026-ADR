@@ -17,6 +17,6 @@
 
 {Nicolas} Attends, tu crois que je lui demande de faire un ADR pour qu'on discute ensemble ? Moi je croyais juste que c'était pour la forcer à poser sa décision et à la tracer quelque part !
 
-{Logan} **TRANSITION** Ben d'abord, je me présente parce que je suis poli
+{Logan} **TRANSITION** Je te dirai plus tard pourquoi c'est une mauvaise idée, mais d'abord, on se présente parce que je suis poli
 
 */
