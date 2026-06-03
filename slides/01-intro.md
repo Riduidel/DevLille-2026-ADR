@@ -13,9 +13,11 @@
 
 {Nicolas} Ben, elle trouvera sur internet !
 
-{Logan} Mais elle va discuter avec toi avant de le valider, non ? NON ?
+{Logan} Mais elle va discuter avec toi avant d'arreter sa décision, non ? NON ?
 
-{Nicolas} Attends, tu crois que je lui demande de faire un ADR pour qu'on discute ensemble ? Moi je croyais juste que c'était pour la forcer à poser sa décision et à la tracer quelque part ! Et puis comment je lui explique ce qu'est un ADR ?
+{Nicolas} Attends, tu crois que je lui demande de faire un ADR pour qu'on discute ensemble ?  
+{Nicolas} Moi je veux juste la forcer à poser sa décision et à la tracer quelque part !  
+{Nicolas} Et puis comment je lui explique ce qu'est un ADR ?
 
 {Logan} **TRANSITION** On en reparle après s'être présentés.
 

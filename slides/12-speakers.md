@@ -27,20 +27,3 @@ Crafteux agnostique
 Architecte logiciel / solutions
 
 [[/right]]
-
-
-/*
-{Nicolas} blablabla
-
-{Logan} blablabla
-
-- Merci à Zenika
-    - Conseil
-    - Formation
-    - Expertise
-- ON RECRUTE
-
-**TRANSITION**
-On va vous parler des ADR, les Architecture Decision Records.
-*/
-

@@ -1,5 +1,7 @@
 ## Cynefin (/kəˈ nɛvɪn/) peut nous aider .[fade-out animate]
 
+CA VA PAS ICI, LES ADR SONT DÉJÀ EN FACE DE LEUR CLASSIFICATION.
+
 <table>
 <tr>
 <td style="text-align:right; visibility: hidden;">ADR utiles mais de façon exploratoire / évolutive</td>
@@ -122,6 +124,6 @@ Aussi, un ADR n'aura surement pas la même physionomie en fonction du domaine de
 
 <br/>
 
-{Nicolas} **TRANSITION** Maintenant qu'on a décidé qu'il était nécessaire de faire un ADR, et qu'on l'a classifié... **Comment on fait concrètement ?**
+{Nicolas} **TRANSITION** Maintenant qu'on a décidé qu'il était nécessaire d'entrer dans un processus de décision d'architecture, et qu'on l'a classifié... **Comment on fait concrètement ?**
 
 */

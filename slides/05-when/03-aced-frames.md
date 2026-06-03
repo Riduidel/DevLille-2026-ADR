@@ -18,11 +18,16 @@ Mais aussi comment l'architecture d'un système définit l'engineering d'un syst
 <br/>
 <br/>
 
+DOUTE:Logan ==> Je sais pas si ça apporte quelque chose ça
 {Logan} Ah oui, comme par exemple quand je constate en tant que développeur qu'un échange asynchrone n'offre pas les garanties de synchronisation dont j'ai besoin.<br/>
+<== DOUTE:Logan
 <br/>
-**TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.<br/>
+
+{Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.<br/>
+
 Toutes les décisions ne nécessitent pas d'ADR comme les décisions les plus simples par exemple.<br/>
+
 Mais comment évaluer la complexité d'un problème à résoudre ?<br/>
-Pour ça, je vous propose qu'on s'appuye sur le framework Cynefin.<br/>
+Pour ça, on peut s'appuyer sur le second outil : le framework Cynefin.<br/>
 
 */
