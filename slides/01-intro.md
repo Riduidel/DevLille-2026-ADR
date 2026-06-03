@@ -15,8 +15,8 @@
 
 {Logan} Mais elle va discuter avec toi avant de le valider, non ? NON ?
 
-{Nicolas} Attends, tu crois que je lui demande de faire un ADR pour qu'on discute ensemble ? Moi je croyais juste que c'était pour la forcer à poser sa décision et à la tracer quelque part !
+{Nicolas} Attends, tu crois que je lui demande de faire un ADR pour qu'on discute ensemble ? Moi je croyais juste que c'était pour la forcer à poser sa décision et à la tracer quelque part ! Et puis comment je lui explique ce qu'est un ADR ?
 
-{Logan} **TRANSITION** Je te dirai plus tard pourquoi c'est une mauvaise idée, mais d'abord, on se présente parce que je suis poli
+{Logan} **TRANSITION** On en reparle après s'être présentés.
 
 */
