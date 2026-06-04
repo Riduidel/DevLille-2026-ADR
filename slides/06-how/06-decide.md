@@ -14,7 +14,12 @@ La décision doit reprendre l'ensemble des critères qui y ont mené.
 
 /*
 
-PROPOSITION:Logan ==> Parler ici de Matrice de décision ?
+PROPOSITION:Logan ==> Citation d'un certain Nico D. : "Mieux vaut prendre une mauvaise décisio que pas de décision du tout"
+PROPOSITION:Logan ==> La paralysie du choix ? Le paradoxe du choix ?
+PROPOSITION:Logan ==> Parler ici de Matrice d'évaluation/décision ?
+
+PROPOSITION:Logan ==> C'est un sujet qu'on doit/souhaite aborder ou pas ça : Qui prend la décision ?
+PROPOSITION:Logan ==> Est-ce qu'on traite ce sujet pendant la conf ou on reserve ça aux questions ?
 
 */
 

@@ -5,10 +5,11 @@
 /*
 
 {Nicolas} On voit plusieurs choses dans ce schéma.<br/>
-D'abord, comment le contexte définit le design a niveau de l'entreprise.<br/>
+D'abord, comment le contexte définit le design au niveau de l'entreprise.<br/>
 Puis comment l'architecture fonctionnelle influence le design des systèmes.<br/>
 <br/>
-Notez que dans ce schéma, **les sous-systèmes et modules peuvent être remplacés par des conteneurs et composants au sens C4**.<br/>
+
+Notez que, dans ce schéma, **les sous-systèmes et modules peuvent être remplacés par des conteneurs et composants au sens C4**<br/>
 <br/>
 Mais aussi comment l'architecture d'un système définit l'engineering d'un système, ou comment l'engineering d'un module peut impacter l'architecture d'un sous-système.<br/>
 

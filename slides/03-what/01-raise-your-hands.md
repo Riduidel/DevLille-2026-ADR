@@ -8,13 +8,13 @@
 
 {Logan} Qui voudrait en faire ?
 
-<<Attendre que les mains se lève>>
+*<< Attendre que les mains se lève >>*
 
 {Nicolas} Personne ne lève la main ?!
 
 {Logan} Qui est réticent ou rencontre de la réticence à sa mise en place dans les équipes ?
 
-<<Attendre que les mains se lève>>
+*<< Attendre que les mains se lève >>*
 
 {Nicolas} Oki, on va tenter de vous aider dans ce cas.
 

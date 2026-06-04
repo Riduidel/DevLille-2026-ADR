@@ -34,6 +34,6 @@ Contextualisation :
 > Je dis souvent que le process de décision d'architecture éclaire la route pour que le conducteur puisse prendre une bonne décision
 > Ça lui évite de prendre un mauvais virage ou de se prendre un arbre finalement
 
-Le tout grace à des itérations d'exploratione, découverte, consultation et d'arbitrage.
+Le tout grace à des itérations d'exploration, découverte, consultation et d'arbitrage.
 
 */

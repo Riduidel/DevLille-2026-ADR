@@ -6,11 +6,11 @@
 
 {Logan} Prenons un peu de recul
 
-<<Logan fait un pas en arrière>>
+*<< Logan fait un pas en arrière >>*
 
 {Logan} Aller Nico, prends un peu de recul avec moi
 
-<<Nico rejoins Logan>>
+*<< Nico rejoins Logan >>*
 
 */
 

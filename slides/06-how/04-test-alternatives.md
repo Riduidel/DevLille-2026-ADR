@@ -37,4 +37,7 @@ Donc MongoDB et PostrgeSQL sont éliminées.
 
 /*
 
+DOUTE:Logan ==> Oh boom, ça sort de null part, j'ai pas compris donc un peu de mal à raccrocher la suite.
+DOUTE:Logan ==> Je trouve la matière un peu maigre pour que l'auditoire se projette.
+
 */

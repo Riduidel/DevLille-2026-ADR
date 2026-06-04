@@ -17,7 +17,7 @@
 
 Au début j'étais complexé de lire des ADR ultra complet.  
 Je ne me sentais pas à la hauteur de produire de tel artefact.  
-Mais les ADR sont en fait un process itératifs et parfois long (quand on a le temps).  
+Mais une décision d'architecture est en fait un processus itératif et parfois long (quand on a le temps).  
 Un peu comme une architecture finalement, elle ne se construit pas en 1 jour.
 
 DOUTE:Logan ==> Je sais que c'est un aspect hyper important de l'ADR mais si on le met dans la partie contexte, il va devenir obèse.
@@ -27,10 +27,10 @@ DOUTE:Logan ==> Voire même en 3 : + 1 sur chaque alternative
 DOUTE:Logan ==> Grand question ?
 
 Autre point important, la convergence vers une décision nécessite de poser les critères de décision.
-Personnellement, j'aime bien les poser juste avant l'exploration des alternatives pour qu'ensuite sur chaque alternative on voit l'adéquation avec les critères de décision.
+Personnellement, j'aime bien les poser juste avant l'exploration des alternatives pour qu'ensuite sur chaque alternative on voit à quelle point l'alternative répond à ces critères.
 
 Et on peut reprendre toute cette information de façon syntétique juste avant de prendre la décision.
-Ça donne une synthèse pour montrer l'évidence de la décision.
+Ça donne une synthèse relativement objective pour prendre du recul sur la prise de décision.
 
 <== DOUTE:Logan
 
@@ -62,4 +62,5 @@ PROPOSITION:Logan ==>
 
 {Nicolas} Ah effectivement, ce sont des contraintes que je n'ai pas explicitées dans le contexte.
 <== PROPOSITION:Logan
+
 */

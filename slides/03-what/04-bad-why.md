@@ -11,7 +11,7 @@
 
 /*
 
-<<Logan Déroule Slides>>
+*<< Logan Déroule Slides >>*
 
 {Logan} Je suis sûr que vous avez déjà entendu une ou plusieurs de ces bonnes raisons.
 
@@ -23,6 +23,7 @@
 - personne ne les relit (sauf au moment des audits d'archi, mais là il est trop tard),
 - on rédige tout seul, en autonomie, c'est franchement pas stimulant,
 - c'est devenu un objectif en soit (cf. Loi de Goodhart),
+- on en vient à devoir en écrire, alors qu'au fond, on sent que c'est surefait dans certains cas,
 - bref ça donne pas envie quoi,
 
 {Nicolas} Et c'est en ça qu'on peut comprendre que les équipes n'adhèrent pas à la pratique ADR dans la durée.

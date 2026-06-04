@@ -4,7 +4,7 @@
 <tr>
 <td style="text-align:right; visibility: hidden;">ADR utiles mais de façon exploratoire / évolutive</td>
 <td rowspan="2">
-!image(../../images/cynefin.png, , 800)
+!image(../../images/cynefin.png, , 1000)
 </td>
 <td style="visibility: hidden;">ADR souvent utiles</td>
 </tr>
@@ -24,17 +24,19 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 > Imaginez une pièce avec un interrupteur et un ampoule.  
 > Quand on intéragit avec l'interrupteur l'état de l'ampoule change.  
 > Le comportement est attendu, stable et connu.  
+
 - La relation de cause à effet est évidente et connue (d'où le **C** et le **E** dans le diagramme)
 - ==> sentir – catégoriser – réagir
 
 <br/>
 
 ***Compliqué : C'est le domaine des "inconnus connus"***
-> Imaginez maintenant que votre chaudière ne fonctionne plus
-> Il peut y avoir plusieurs causes possibles
+> Imaginez maintenant que votre chaudière ne fonctionne plus  
+> Il peut y avoir plusieurs causes possibles  
 > 2 possibilités :
 > - vous tentez des choses vous-même (quite à empirer le problème)
 > - vous appeler le plombier
+> 
 > La prochaine fois que ça arrive vous ferez ce qu'a fait le plombier mais sans vraiment savoir si ça va avoir le même effet
 
 - La relation entre cause et effet nécessite une analyse ou une expertise
@@ -43,10 +45,10 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 <br/>
 
 ***Complexe : C'est le domaine des "inconnus inconnus"***
-> La météo est un système complexe par excellence
-> On connait globalement les variables qui influencent la météo (pression, température, vent)
-> Mais à situation de départ et à variables équivalentes, la météo évoluera différemment
-> On a bien des modèles de prédiction mais impossible de prédire avec exactitude même en faisant appel aux plus grands experts
+> La météo est un système complexe par excellence  
+> On connait globalement les variables qui influencent la météo (pression, température, vent)  
+> Mais à situation de départ et à variables équivalentes, la météo évoluera différemment  
+> On a bien des modèles de prédiction mais impossible de prédire avec exactitude même en faisant appel aux plus grands experts  
 
 - La relation de cause à effet est instable et difficile à prévoir. Elle se comprend par expérimentation.
 - ==> explorer – sentir – réagir
@@ -55,11 +57,12 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 <br/>
 
 ***Chaotique :***
-> Imaginez que vous êtes en train de cuisiner et que l’huile dans la poêle prend feu.
+> Imaginez que vous êtes en train de cuisiner et que l’huile dans la poêle prend feu  
 > À ce moment-là :
 > - vous n’analysez pas les causes
 > - vous ne cherchez pas la meilleure théorie
 > - vous n’appelez pas un expert pour diagnostiquer
+> 
 > Vous agissez immédiatement :
 > - couper le feu
 > - mettre un couvercle
@@ -72,24 +75,20 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 <br/>
 
 ***Confusion :***
-> Ce dernier domaine est une maison inconnue plongée dans le noir.  
-> Vous entrez... Vous ne savez pas ce qu'il se passe !  
-> Avant même de décider, il faut comprendre dans quel domaine on se trouve.  
-
 - Quand ce n'est dans aucun des autres domaines
 - Le problème n’est **pas encore** classifiable
 - Une réponse apportée maintenant a de forte chance de ne pas convenir
 
 */
 
-## En quoi Cynefin est utile ? .[fade-in animate]
+## Cynefin (/kəˈ nɛvɪn/) peut nous aider .[fade-in animate]
 
 
 <table>
 <tr>
 <td style="text-align:right; vertical-align:top">ADR utiles mais de façon exploratoire / évolutive</td>
 <td rowspan="2">
-!image(../../images/cynefin.png, , 800)
+!image(../../images/cynefin.png, , 1000)
 </td>
 <td style="vertical-align:top">ADR souvent utiles</td>
 </tr>
@@ -103,9 +102,9 @@ Ce framework créé par Snowden et Boone (et je parle pas d'Edward et de Danny) 
 
 {Logan}
 
-Donc on se rend compte que finalement, ce n'est peut-être pas utile de faire un ADR dans toutes les situations.  
-C’est surtout dans les domaines compliqués et complexe que les ADR apportent de la valeur.  
-D'où l'importance de bien identifier la problématique à adresser.  
+Donc finalement, est-il utile d'ecrire un ADR dans toutes les situations ?  
+On pense que non et que c’est surtout dans les domaines compliqués et complexe que les ADRs apportent de la valeur.  
+D'où l'importance de bien identifier la problématique à adresser
 
 <br/>
 
@@ -117,8 +116,9 @@ Dans le domaine du chaotique, une communication claire suffira surement car la s
 
 <br/>
 
-Aussi, un ADR n'aura surement pas la même physionomie en fonction du domaine de classification Cynefin.
-**Pour poursuivre, on va prendre l'exemple d'une problématique Compliqué qui nécessite une expertise.**
+Aussi, un ADR n'aura surement pas la même physionomie en fonction du domaine de classification Cynefin.  
+**Pour poursuivre, on va prendre un problème dans le domaine Compliqué car c'est la que les ADRs sont les plus pertinent.**  
+**Car dans le domaine du Complexe, il faudra mener plusieurs expérimentations avant de comprendre la dynamique en jeu et donc avant d'écrire un ADR**
 
 <br/>
 

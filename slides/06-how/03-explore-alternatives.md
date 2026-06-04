@@ -84,7 +84,7 @@ META:Logan ==> Lien avec "outil vivant"
 META:Logan ==> Lien avec "iterration"
 META:Logan ==> Lien avec "expertise" (que ce serait-il passé si j'avais pas constaté le trou ?)
 
-DOUTE:Logan ==> Pas sur qu'il faille garder la suite
+DOUTE:Logan ==> Pas sûr qu'il faille garder la suite
 {Logan} Par ailleurs, je vois apparaître PostgreSQL et MongoDB. Ca ne peut pas correspondre aux contraintes ? Ou alors tu as l'intention de faire du Aiven ?
 
 */

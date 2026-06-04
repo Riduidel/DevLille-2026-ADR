@@ -2,7 +2,7 @@
 
 
 <nav class="breadcrumbs">
-  <a class="Explorer des alternatives is-active">Poser la question</a>
+  <a class="is-active">Poser la question</a>
   <a class="">Clarifier le contexte</a>
   <a class="">Explorer des alternatives</a>
   <a class="">Etudier ces alternatives</a>
@@ -42,7 +42,9 @@
 
 <br/>
 
+DOUTE:Logan ==> J'ai l'impression que cette phrase n'a pas été supprimer avec son alternative V1 vs V2 vs V3
 {Logan} Mais quelles informations ? Et dans quel but ? Pour quels usages ?
+<== DOUTE:Logan
 
 <br/>
 
@@ -66,6 +68,6 @@
 
 /*
 
-{Logan} **TRANSITION** Bon, ok, on a une question ... mais tu ne m'as rien dit du contexte dans lequel prendre cette décision ...
+{Logan} **TRANSITION** Bon, ok, on a une question ... mais tu ne dis pas grand chose du contexte dans lequel prendre cette décision ...
 
 */
