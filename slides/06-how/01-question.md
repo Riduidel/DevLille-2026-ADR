@@ -17,9 +17,6 @@
 
 /*
 
-PROPOSITION:Logan V1 ==>
-
----
 
 {Logan} Formaliser la question, c'est quoi ton besoin ?
 
@@ -45,95 +42,11 @@ PROPOSITION:Logan V1 ==>
 
 <br/>
 
-{Logan} C'est quoi tes données ? Quel problème essayes-tu de résoudre ? C'est quoi les cas d'usage de ton application ?
-
-<br/>
-
-{Nicolas} **TRANSITION**
-
----
-<== PROPOSITION:Logan V1
-
-<br/>
-<br/>
-
-PROPOSITION:Logan V2 ==>
-
----
-
-{Logan} Formaliser la question, c'est quoi ton besoin ?
-
-<br/>
-
-{Nicolas} Bah il faut que je choisisse une BDD pour mon appli ?
-
-<br/>
-
-{Logan} Attends, c'est vraiment ça ton besoin ? Ou t'es en train de chercher un moyen qui te permet de résoudre un problème que tu n'as pas encore exprimé ?
-
-<br/>
-
-{Nicolas} Ah non, je veux vraiment choisir une BDD.
-
-<br/>
-
-{Logan} Attends deux secondes, on va prendre un peu de recul.
-
-<br/>
-
-***Nicolas et Logan recule d'un pas***
-
-<br/>
-
-{Logan} En fait, ce que tu cherches c'est un moyen de stocker de l'information pour ton application, c'est ça ?
-
-<br/>
-
-{Nicolas} Ah oui, d'accord dans ce sens là... Ouai !
-
-<br/>
-
 {Logan} Mais quelles informations ? Et dans quel but ? Pour quels usages ?
 
 <br/>
 
-{Nicolas} **TRANSITION**
-
----
-
-<== PROPOSITION:Logan V2
-
-<br/>
-<br/>
-
-PROPOSITION:Logan V3 ==>
-
----
-
-{Logan} Formaliser la question, c'est quoi ton besoin ?
-
-<br/>
-
-{Nicolas} Bas il faut que je choisisse une BDD pour mon appli ?
-
-<br/>
-
-{Logan} Oki, donc tu cherches un moyen de stock de l'information pour ton application, c'est ça ?
-
-<br/>
-
-{Nicolas} Oui, c'est ça ?
-
-<br/>
-
-{Logan} Mais quelles informations ? Et dans quel but ? Pour quels usages ?
-
-<br/>
-
-{Nicolas} **TRANSITION** On cherche à stocker des indicateurs de popularité de technologies
----
-
-<== PROPOSITION:Logan V3
+{Nicolas} **TRANSITION** On cherche à stocker des indicateurs de popularité de librairies open-source
 
 */
 
@@ -149,10 +62,10 @@ PROPOSITION:Logan V3 ==>
   <a class="">Se préparer aux conséquences</a>
 </nav>
 
-> Comment stocker et exploiter des indicateurs de popularité de technologie ?
+> Comment stocker et exploiter des indicateurs de popularité de librairies ?
 
 /*
 
-{Logan} **TRANSITION** Mais il serait cavalier de prendre une décision à ce stade sans tenir compte de certaines éléments de contexte.
+{Logan} **TRANSITION** Bon, ok, on a une question ... mais tu ne m'as rien dit du contexte dans lequel prendre cette décision ...
 
 */

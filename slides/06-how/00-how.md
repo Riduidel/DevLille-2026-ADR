@@ -20,6 +20,8 @@ Voilà les différentes étapes et on va les détailler ensemble.
 
 **ATTENTION, CE N'EST PAS L'ORDRE DES CHAPITRES DE VOS ADRS, ÇA C'EST LE PROCESS QU'ON PROPOSE ET QUE PERSONNELLEMENT ON SUIT**
 
+Et comme c'est un process, essayons de l'afficher comme une progression ...
+
 */
 
 ## Mais alors, comment faire ? .[fade-in fade-out hide-title]
@@ -33,3 +35,9 @@ Voilà les différentes étapes et on va les détailler ensemble.
   <a class="">Ecrire une décision claire</a>
   <a class="">Se préparer aux conséquences</a>
 </nav>
+
+/*
+
+{Logan} Ah oui, c'est mieux, on va pouvoir avancer !
+
+*/

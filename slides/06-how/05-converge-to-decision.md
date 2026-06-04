@@ -1,4 +1,4 @@
-## Converger vers une décision  .[fade-in fade-out hide-title #split]
+## Converger vers une décision  .[fade-in fade-out hide-title]
 
 <nav class="breadcrumbs">
   <a class="">Poser la question</a>
@@ -10,18 +10,8 @@
   <a class="">Se préparer aux conséquences</a>
 </nav>
 
-[[left]]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8J1opDS1otY?si=sDf7VIbEIcAMwnVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[[/left]]
-
-[[right]]
-
-<iframe src="https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Delphes" style="width:800px; height: 600px">
+<iframe src="https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Delphes" width=1280 height=800>
 </iframe>
-
-[[/right]]
 
 /*
 

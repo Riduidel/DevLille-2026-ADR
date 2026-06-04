@@ -72,6 +72,9 @@ Pour ce qui est des ***Principes***, là aussi, tu peux ratisser large :
 <br/>
 
 DOUTE:Logan ==> Je ne sais pas s'il faut le mettre en dernier.
+
+Si, parce que c'est le moins dur à bouger.
+
 DOUTE:Logan ==> Mais je sais que c'est une excellente idée.
 
 > En en petit bonus, j'ajouterais les décisions en amont de la prise de décision actuelle.
@@ -131,6 +134,9 @@ META:Logan ==> Là on montre un anti-pattern, c'est cool
 ***"Utilisation des Enterprise Integration Patterns"***
 > Pour favoriser la découplage des flux de données.
 
+<br/>
+
+{Nicolas} **TRANSITION** ok, donc j'enlève et je reformule ?
 */
 ## Exemple .[fade-in fade-out hide-title]
 
@@ -147,7 +153,7 @@ META:Logan ==> Là on montre un anti-pattern, c'est cool
 
 * Exigences fonctionnels
     * Indicateurs numériques multidimensionels et temporels (librairie, stars, téléchargements, questions, ...)
-    * Comparaison par librairie et par Date (Courbes)
+    * Comparaison par librairie et par date (Courbes)
 * Exigences non-fonctionnelles
     * 15.000 technologies actuellement
     * Recherche par librairie
@@ -161,12 +167,18 @@ META:Logan ==> Là on montre un anti-pattern, c'est cool
 
 /*
 
-PROPOSITION:Logan ==>
 {Logan} Décompléxez vous quant à la pertinence de ce context.
+
 {Logan} Je vous rassure, personnellement, je n'arrive jamais à construire le contexte du premier coup.
+
 {Logan} Il y a toujours des éléments que j'oublie ou que je sous-estime sur l'instant.
+
 {Logan} C'est au fil de discussions et d'exploration d'alternatives que j'arrive à identifier les éléments qui participe vraiment à la prise de décision.
+
 {Logan} On y reviendra un peu dans la suite.
-<== PROPOSITION:Logan
+
+{Nicolas} Bon, maintenant j'imagine qu'il faut que je décide ?
+
+{Logan} **TRANSITON** Si on essaye d'avoir une approche expérimentale, il faut d'abord que tu explores des alternatives
 
 */

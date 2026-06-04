@@ -7,9 +7,8 @@
 {Nicolas} L'architecture explique où les choses se trouvent, et quelles sont nos *intentions* à propos de ce système.<br/>
 En revanche, l'ingénierie montre comment on implémente ce design, et ce qu'on utilise pour implémenter ce design.<br/>
 Autrement dit, **l'ingénierie implémente les décisions définies par l'architecture.**<br/>
+Note bien qu'ici, on ne parle pas de choisir une solution technique, mais plutôt de définir les critères qui vont aider à choisir une solution technique.<br/>
+Et ça pourrait vouloir dire que l'archiecture n'a rien à faire avec, par exemple, le choix d'un système de stockage de données.<br/>
 <br/>
-De ce fait, si on reprend les questions précedentes, portent-elles un pourquoi ou un comment ?
-<br/>
-
-{Logan} **TRANSITION** Non mais attends, c'est pas aussi simple, parce que ces questions ne sont pas forcément que techniques.
+**TRANSITION** Sauf si on s'intéresse aux différents niveaux de granularité des décisions ...
 */

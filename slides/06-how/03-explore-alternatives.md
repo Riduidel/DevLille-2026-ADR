@@ -19,11 +19,15 @@ DOUTE:Logan ==> Du coup, je suis un peu perdu dans l'intention de cette slide.
 DOUTE:Logan ==> Je pense que je n'arrive pas à avoir l'image mentale que tu essayes de projeter.
 
 {Logan} Ça c'est la partie un peu créative que j'affectionne.
+
 {Logan} C'est là qu'il va falloir imaginer des solutions qui respectent l'ensemble des éléments qui contraignent la décision d'architecture.
 
 {Logan} Une des premières alternatives que j'aime bien poser en général, c'est : "NE RIEN FAIRE"
+
 {Logan} Ne rien faire est souvent une option négligée et pourtant viable dans certains cas.
+
 {Logan} Ça permet de mettre en évidence les "risques à ne pas faire".
+
 {Logan} Une phrase que je répète souvent, c'est : "NE RIEN FAIRE EST TOUJOURS UNE OPTION".
 
 {Logan} **TRANSISTION** Si on reprend l'exemple de ton besoin de stocker de l'information, tu explorerais quoi à peu prêt comme alternatives ?

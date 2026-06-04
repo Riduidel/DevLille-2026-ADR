@@ -5,17 +5,10 @@
 
 /*
 
-PROPOSITION:Logan ==>
-Mais finalement, c'est quoi une décision d'architecture ?
+{Logan} On peut donc dire que l'ADR est un document qui capture la décision d'architecture.<br/>
+Bon, c'est déja ça, mais l'architecture, c'est quand même un terme un peu flou, non ?
 
-DOUTE:Logan ==> C'est justement ce que contredit le modèle ACED justement si j'ai bien compris, non ?
-- Architecture                  = Comment est organisé techniquement mon système
-<== DOUTE:Logan
-- Décision d'architecture       = Décision qui contraint **durablement** l'organisation du système et son évolution
-
-**TRANSITION** Il existe des outils comme le Model ACED qui permettent de savoir si une décision porte sur l'architecture ou sur autre chose
-<== PROPOSITION:Logan
-
-🐒 🐵 🙈 🙉 🙊
-
+{Nicolas} C'est vrai, et le concept de décision structurante et lui aussi assez vague.<br/>
+Je te propose qu'on essaye de trouver des modèles qui précisent ces notions.<br/>
+**TRANSITION** Personnellement, pour l'architecture, j'aime bien le modèle ACED.
 */

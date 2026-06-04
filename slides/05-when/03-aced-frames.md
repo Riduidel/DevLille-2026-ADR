@@ -8,7 +8,7 @@
 D'abord, comment le contexte définit le design a niveau de l'entreprise.<br/>
 Puis comment l'architecture fonctionnelle influence le design des systèmes.<br/>
 <br/>
-Notez que dans ce schéma, les sous-systèmes et modules peuvent être remplacés par des conteneurs et composants au sens C4.<br/>
+Notez que dans ce schéma, **les sous-systèmes et modules peuvent être remplacés par des conteneurs et composants au sens C4**.<br/>
 <br/>
 Mais aussi comment l'architecture d'un système définit l'engineering d'un système, ou comment l'engineering d'un module peut impacter l'architecture d'un sous-système.<br/>
 
@@ -16,9 +16,8 @@ Mais aussi comment l'architecture d'un système définit l'engineering d'un syst
 * Un architecte de système peut définir l'implémentation d'un sous-système.
 * Et un développeur peut réclamer la ré-archiecture d'un sous-système.
 <br/>
-<br/>
 
-DOUTE:Logan ==> Je sais pas si ça apporte quelque chose ça
+DOUTE:Logan ==> Je sais pas si ça apporte quelque chose ça (si si, c'est hyper important en fait)
 {Logan} Ah oui, comme par exemple quand je constate en tant que développeur qu'un échange asynchrone n'offre pas les garanties de synchronisation dont j'ai besoin.<br/>
 <== DOUTE:Logan
 <br/>

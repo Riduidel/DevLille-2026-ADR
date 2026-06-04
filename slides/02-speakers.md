@@ -30,17 +30,19 @@ Architecte logiciel / solutions
 
 
 /*
+
 {Nicolas} blablabla
 
 {Logan} blablabla
 
+{Nicolas}
 - Merci à Zenika
     - Conseil
     - Formation
     - Expertise
 - ON RECRUTE
 
-**TRANSITION**
-On va vous parler des ADR, les Architecture Decision Records.
+{Nicolas} **TRANSITION** On va vous parler des ADR, les Architecture Decision Records.
+
 */
 
