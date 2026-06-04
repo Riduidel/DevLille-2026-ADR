@@ -25,9 +25,9 @@ DOUTE:Logan ==> Je sais pas si ça apporte quelque chose ça
 
 {Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.<br/>
 
-Toutes les décisions ne nécessitent pas d'ADR comme les décisions les plus simples par exemple.<br/>
+{Logan} Toutes les décisions ne nécessitent pas d'ADR comme les décisions les plus simples par exemple.<br/>
 
-Mais comment évaluer la complexité d'un problème à résoudre ?<br/>
+{Logan} Mais comment évaluer la complexité d'un problème à résoudre ?<br/>
 Pour ça, on peut s'appuyer sur le second outil : le framework Cynefin.<br/>
 
 */

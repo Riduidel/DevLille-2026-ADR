@@ -19,7 +19,7 @@ Alignement :
 > Alignement entre les connaissances et compétences des contributeurs (***experts***)
 > Alignement entre la personne qui exprime le besoin et les décideurs
 > Alignement avec les ***contraintes*** et les ***principes***
-> C'est presque finalement un moyen de coordination des ***experts*** pour répondre à un problème ***complexe*** ou ***compliqué*** (on y reviendra juste après)
+> C'est presque finalement un moyen de coordination des ***experts*** pour répondre à un problème ***complexe*** ou ***compliqué***
 
 Contextualisation :
 > Quand on prend une décision, on le fait dans un certain ***context***

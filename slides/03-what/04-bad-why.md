@@ -15,7 +15,7 @@
 
 {Logan} Je suis sûr que vous avez déjà entendu une ou plusieurs de ces bonnes raisons.
 
-{Logan} Mais finalement, elles nous font dire que les ADRs :
+{Logan} Mais finalement, elles nous font vite conclure que les ADRs :
 - c'est bureaucratique,
 - c'est pénible, on abandonne vite,
 - on préfère rush le truc,
@@ -26,7 +26,5 @@
 - bref ça donne pas envie quoi,
 
 {Nicolas} Et c'est en ça qu'on peut comprendre que les équipes n'adhèrent pas à la pratique ADR dans la durée.
-
-🐒 🐵 🙈 🙉 🙊
 
 */

@@ -1,7 +1,5 @@
 ## Cynefin (/kəˈ nɛvɪn/) peut nous aider .[fade-out animate]
 
-CA VA PAS ICI, LES ADR SONT DÉJÀ EN FACE DE LEUR CLASSIFICATION.
-
 <table>
 <tr>
 <td style="text-align:right; visibility: hidden;">ADR utiles mais de façon exploratoire / évolutive</td>

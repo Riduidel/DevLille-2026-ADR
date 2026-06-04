@@ -4,8 +4,8 @@
 
 /*
 
-{Nicolas} Bon effectivement, vous commencez déjà à toucher du doigt une des raisons qui font que l'adoption des ADRs est un echec.
+{Nicolas} Bon effectivement, vous commencez déjà à toucher du doigt certaines raisons qui font que l'adoption des ADRs est un echec.
 
-{Logan} Mais clairement, ce n'est pas la seule !
+{Logan} Mais clairement, les équipes font face à une vrai ADR Fatigue
 
 */

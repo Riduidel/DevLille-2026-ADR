@@ -25,7 +25,7 @@ PROPOSITION:Logan ==>
 - Mais encore faut-il qu'il y est un vrai processus à capturer
 - Toutes les décisions méritent-elles vraiment d'avoir le même processus de décision ?
 - Rien n'est moins sur !
-- Et ces différents processus de décision meritent-ils d'être documenter ?
+- Et ces différents processus de décision meritent-ils tous d'être documenter ?
 
 Pour arbitrer ce point, nous vous proposons 2 outils.
 Le premier : Le Model ACED
