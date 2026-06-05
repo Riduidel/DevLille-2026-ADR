@@ -2,6 +2,6 @@
 
 /*
 
-Se concentrer uniquement sur les décisions significatives.
+TODO:Nicolas
 
 */

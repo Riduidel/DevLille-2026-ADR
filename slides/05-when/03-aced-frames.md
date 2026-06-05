@@ -13,15 +13,14 @@ Notez que, dans ce schéma, **les sous-systèmes et modules peuvent être rempla
 <br/>
 Mais aussi comment l'architecture d'un système définit l'engineering d'un système, ou comment l'engineering d'un module peut impacter l'architecture d'un sous-système.<br/>
 
-* Un architecte fonctionnel peut prendre une décision concernant l'architecture de systèmes.
+* Un architecte fonctionnel peut prendre une décision définissant l'architecture des systèmes.
 * Un architecte de système peut définir l'implémentation d'un sous-système.
 * Et un développeur peut réclamer la ré-archiecture d'un sous-système.
 <br/>
 
-DOUTE:Logan ==> Je sais pas si ça apporte quelque chose ça (si si, c'est hyper important en fait)
 {Logan} Ah oui, comme par exemple quand je constate en tant que développeur qu'un échange asynchrone n'offre pas les garanties de synchronisation dont j'ai besoin.<br/>
-<== DOUTE:Logan
-<br/>
+
+TODO:Logan simplifier la transition (déplacer les deux phrases de la fin)
 
 {Logan} **TRANSITION** Maintenant qu'on sait évaluer si une décision porte sur l'architecture ou pas, on va pouvoir classifier par niveaux de complexité pour savoir quelle approche utiliser.<br/>
 

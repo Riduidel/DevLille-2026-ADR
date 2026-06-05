@@ -26,25 +26,15 @@
 
 <br/>
 
-{Logan} Attends, c'est vraiment ça ton besoin ? Ou t'es en train de chercher un moyen qui te permet de résoudre un problème que tu n'as pas encore exprimé ?
+{Logan} Oui mais pour quels usages ? Rends toi bien compte que tu choisiras pas de la même façon en fonction de ton besoin, des graphiques en batons, des relations multiple type réseau social, de l'agrégation de données... Tu n'apporteras pas la même réponse en fonction du problème à résoudre.
 
 <br/>
 
-{Nicolas} Ah non, je veux vraiment choisir une BDD.
+{Nicolas} Ah oui, d'accord ...
 
 <br/>
 
-{Logan} Oui mais rends toi bien compte que tu choisiras pas de la même façon en fonction de ton besoin, des graphiques en batons, des relations multiple type réseau social, de l'agrégation de données... Tu n'apporteras pas la même réponse en fonction du problème à résoudre.
-
-<br/>
-
-{Nicolas} Ah oui, d'accord dans ce sens là...
-
-<br/>
-
-DOUTE:Logan ==> J'ai l'impression que cette phrase n'a pas été supprimer avec son alternative V1 vs V2 vs V3
 {Logan} Mais quelles informations ? Et dans quel but ? Pour quels usages ?
-<== DOUTE:Logan
 
 <br/>
 

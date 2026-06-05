@@ -105,16 +105,12 @@ Et si on pousse le vice encore plus loin, certains outils documentaire comme Obs
     * Récupération par API
     * Recherche par librairie
 * Contraintes de l'écosystème
-    * On ne déploie pas de solution conteneurisée
-    * Le stockage doit être sur un cloud français
     * Ça doit être prêt pour la semaine prochaine
 * Principes de l'équipe
     * Respect des 12 Factors
     * Utilisation des Enterprise Integration Patterns
 
 /*
-
-META:Logan ==> Là on montre un anti-pattern, c'est cool
 
 {Logan}
 ***"Récupération par API"***
@@ -152,8 +148,6 @@ META:Logan ==> Là on montre un anti-pattern, c'est cool
     * 15.000 technologies actuellement
     * Recherche par librairie
 * Contraintes de l'écosystème
-    * On ne déploie pas de solution conteneurisée
-    * Le stockage doit être sur un cloud français
     * Ça doit être prêt pour la semaine prochaine
 * Principes de l'équipe
     * Respect des 12 Factors

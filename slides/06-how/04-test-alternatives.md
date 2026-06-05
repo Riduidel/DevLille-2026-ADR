@@ -14,9 +14,7 @@ Créer des expériences reproductibles vérifiant comment les alternatives impl�
 
 /*
 
-DOUTE:Logan ==> Je pense qu'il va falloir des exemples pour que les gens comprennent où tu veux en venir.
-DOUTE:Logan ==> Moi perso, je comprends pas grand chose là :/
-
+TODO:Nicolas
 */
 
 
@@ -31,6 +29,8 @@ DOUTE:Logan ==> Moi perso, je comprends pas grand chose là :/
   <a class="">Ecrire une décision claire</a>
   <a class="">Se préparer aux conséquences</a>
 </nav>
+
+TODO:Nicolas
 
 Aiven ne correspond pas aux règles de déploiement locales.
 Donc MongoDB et PostrgeSQL sont éliminées.

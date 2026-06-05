@@ -50,12 +50,10 @@ Au vu du contexte, Google BigQuery est la seule solution valable.
 {Nicolas} On pensait avoir le choix, et en fait on ne l'a pas tant que ça.
 {Nicolas} Ca peut aussi être une découverte d'un ADR.
 
-PROPOSITION:Logan ==>
 {Logan} Oui, en effet, c'est Simon Brown qui disait que "plus le contexte est contraint plus la décision devient évidente". Tu tombe pile dans ce cas.
 
 {Logan} Mais attends, si Big Query est autorisé, pourquoi ne pas explorer la piste des services managés de Azure, AWS, OVH ou Scaleway par exemple ?
 
 {Nicolas} Ah effectivement, ce sont des contraintes que je n'ai pas explicitées dans le contexte.
-<== PROPOSITION:Logan
 
 */

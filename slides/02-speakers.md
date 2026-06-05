@@ -10,7 +10,7 @@
 
 **<span style="font-size: 55px">Nicolas Delsaux</span>**
 
-Développeur Java
+Directeur technique
 
 Architecte de solutions / systèmes
 

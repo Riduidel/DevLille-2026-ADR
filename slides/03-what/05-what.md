@@ -16,5 +16,5 @@ mais dont la plus grande valeur est de capturer le processus d'une décision d'a
 {Nicolas} Je vous propose qu'on essaye de trouver des modèles qui précisent ces notions.<br/>
 <br/>
 
-**TRANSITION** Personnellement, pour l'architecture, j'aime bien le modèle ACED.
+{Nicolas} **TRANSITION** Personnellement, pour l'architecture, j'aime bien le modèle ACED.
 */
