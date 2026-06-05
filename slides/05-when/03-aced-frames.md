@@ -4,6 +4,8 @@
 
 /*
 
+TODO: Remplacer les traits par des flèches (quand on apssera aux slides)
+    
 {Nicolas} On voit plusieurs choses dans ce schéma.<br/>
 D'abord, comment le contexte définit le design au niveau de l'entreprise.<br/>
 Puis comment l'architecture fonctionnelle influence le design des systèmes.<br/>

@@ -155,7 +155,7 @@ Et si on pousse le vice encore plus loin, certains outils documentaire comme Obs
 
 /*
 
-{Logan} Décompléxez vous quant à l'hexaistivité de ce context.
+{Logan} Décompléxez vous quant à l'exhaustivité de ce contexte.
 
 {Logan} Je vous rassure, personnellement, je n'arrive jamais à construire le contexte du premier coup.
 

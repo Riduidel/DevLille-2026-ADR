@@ -35,12 +35,9 @@ Architecte logiciel / solutions
 
 {Logan} blablabla
 
-{Nicolas}
-- Merci à Zenika
-    - Conseil
-    - Formation
-    - Expertise
-- ON RECRUTE
+{Nicolas} Vous connaissez Zenika ? Si ça n'est aps le cas, allez voir les gens portant des t-shirts rouges.<br/>
+En résumé, on essaye d'être bons,<br/>
+et on recrute !
 
 {Nicolas} **TRANSITION** On va vous parler des ADR, les Architecture Decision Records.
 

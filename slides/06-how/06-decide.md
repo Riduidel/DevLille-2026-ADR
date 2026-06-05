@@ -14,12 +14,10 @@ La décision doit reprendre l'ensemble des critères qui y ont mené.
 
 /*
 
-PROPOSITION:Logan ==> Citation d'un certain Nico D. : "Mieux vaut prendre une mauvaise décisio que pas de décision du tout"
-PROPOSITION:Logan ==> La paralysie du choix ? Le paradoxe du choix ?
-PROPOSITION:Logan ==> Parler ici de Matrice d'évaluation/décision ?
-
-PROPOSITION:Logan ==> C'est un sujet qu'on doit/souhaite aborder ou pas ça : Qui prend la décision ?
-PROPOSITION:Logan ==> Est-ce qu'on traite ce sujet pendant la conf ou on reserve ça aux questions ?
+{Nicolas} Maintenant que vous avez une décision, que faire ?<br/>
+L'écrire, bien sûr !<br/>
+Mais pas n'importe comment, et surtout aps comme "on choisit l'alternative 1".<br/>
+Il faut bien indiquer pourquoi, c'est-à-dire rappeler les compromis qui ont éventuellement été fait lors de la phase de convergence.
 
 */
 
@@ -39,6 +37,5 @@ PROPOSITION:Logan ==> Est-ce qu'on traite ce sujet pendant la conf ou on reserve
 
 /*
 
-PROPOSITION:Logan ==> mettre un exemple de matrice de décision avec les critères de décisions ?
 
 */

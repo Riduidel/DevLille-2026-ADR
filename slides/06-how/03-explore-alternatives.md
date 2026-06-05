@@ -14,12 +14,15 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 
 /*
 
-{Logan} Ça c'est la partie un peu créative que j'affectionne.  
+{Logan} Ça c'est la partie un peu créative que j'affectionne.
+
 {Logan} C'est là qu'il va falloir imaginer des solutions qui respectent l'ensemble des éléments qui contraignent la décision d'architecture en utilisant une technique de l'entonoir.
 
 {Logan} Une phrase que je répète souvent, c'est : "NE RIEN FAIRE EST TOUJOURS UNE OPTION".
-{Logan} Ne rien faire est souvent une option négligée et pourtant viable dans certains cas.  
-{Logan} Ça permet de mettre en évidence les "risques à ne pas faire".  
+
+{Logan} Ne rien faire est souvent une option négligée et pourtant viable dans certains cas.
+
+{Logan} Ça permet de mettre en évidence les "risques à ne pas faire".
 
 {Logan} **TRANSISTION** Si on reprend l'exemple de ton besoin de stocker de l'information, tu explorerais quoi à peu prêt comme alternatives ?
 
@@ -64,6 +67,7 @@ Quand je le regarde je me dis que Postgres ou MongoDB sont de bonnes solutions
 {Nicolas} Je me dis aussi que Google BigQuery conviendrait bien, parce qu'il n'y a pas de conteneurs à déployer, à opérer ...
 
 {Logan} Attends deux secondes, ça ressemble à un principe ou une contrainte, non ?
+
 {Logan} Et puis on pourrait avoir des BDD sur des services managés comme Aiven par exemple, non ?
 
 {Nicolas} **TRANSITION** Ah oui, en effet, j'ai pas pensé à mettre ça dans le contexte. C'est important, je vais les ajouter.

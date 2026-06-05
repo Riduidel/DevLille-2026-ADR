@@ -1,4 +1,38 @@
-## Converger vers une décision  .[fade-in fade-out hide-title]
+## Converger vers une décision - quand il y a un seul candidat  .[fade-in fade-out hide-title]
+
+<nav class="breadcrumbs">
+  <a class="">Poser la question</a>
+  <a class="">Clarifier le contexte</a>
+  <a class="">Explorer des alternatives</a>
+  <a class="">Etudier ces alternatives</a>
+  <a class="is-active">Converger vers la décision</a>
+  <a class="">Ecrire une décision claire</a>
+  <a class="">Se préparer aux conséquences</a>
+</nav>
+
+<table>
+<tr>
+<td>Alternative 1</td><td>✅</td><td>✅</td><td>✅</td>
+</tr>
+<tr>
+<td>Alternative 2</td><td>✅</td><td>❌</td><td>✅</td>
+</tr>
+<tr>
+<td>Alternative 3</td><td>❌</td><td>✅</td><td>❌</td>
+</tr>
+</table>
+
+/*
+
+{Nicolas} Si vous avez réussi à réduire vos alternatives à un seul candidat, vous avez réussi le processus de décision idéal:
+Vous avez réussi à réduire vos candidats à seul.
+Et ça, vous l'avez vu, ça n'est possible que si vous avez suffisament enrichi votre contexte pour que vos expériences vous permettent de n'avoir qu'une seule solution validant toutes les expériences menées.
+
+**TRANSITION** Mais la plupart du temps, vous n'avez pas cette chance ...
+
+*/
+
+## Converger vers une décision - quand il y a plusieurs candidats  .[fade-in fade-out hide-title]
 
 <nav class="breadcrumbs">
   <a class="">Poser la question</a>
@@ -15,19 +49,12 @@
 
 /*
 
-DOUTE:Logan ==> Je sais que c'est un aspect hyper important de l'ADR mais si on le met dans la partie contexte, il va devenir obèse.
-DOUTE:Logan ==> Je sais pas trop où le mettre, donc je le pose là pour l'instant.
-DOUTE:Logan ==> Est-ce qu'il faut le split en deux : 1 en fin de context et 1 en début de décision.
-DOUTE:Logan ==> Voire même en 3 : + 1 sur chaque alternative
-DOUTE:Logan ==> Grand question ?
-
-Autre point important, la convergence vers une décision nécessite de poser les critères de décision.
-Personnellement, j'aime bien les poser juste avant l'exploration des alternatives pour qu'ensuite sur chaque alternative on voit à quelle point l'alternative répond à ces critères.
-
-Et on peut reprendre toute cette information de façon syntétique juste avant de prendre la décision.
-Ça donne une synthèse relativement objective pour prendre du recul sur la prise de décision.
-
-<== DOUTE:Logan
+{Nicolas} Quand vous avez plusieurs alternatives correspondant à la décision à prendre, vous êtes tentés de vous tourner vers l'architecte en tant qu'autorité.<br/>
+Mais ça n'est pas l'archietcte qui souffrira de votre décision, **C'EST VOUS**.
+Et si c'est vous en tant qu'équipe, utilisez des outils de décision collective intelligents.
+Vos agilistes rpéférés auront plein de méthodes à vous proposer.
+Personnellement, j'aime bien la méthode de Delphes, est une méthode qui repose sur des tours de vote avec des phases de discussion/compromis jusqu'à l'unanimité, où ceux qui sont en faveur d'une décision majoritaire demandent à ceux qui ont une autre opinion ce qu'il faudrait faire pour les rallier à cette majorité.
+Si vous notez ces demandes, vous vous retrouverez avec une décision très propre, car correspondant précisément au contexte de l'équipe et à ses engagements implicites.
 
 */
 
