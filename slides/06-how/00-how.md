@@ -40,4 +40,6 @@ Et comme c'est un process, essayons de l'afficher comme une progression ...
 
 {Logan} Ah oui, c'est mieux, on va pouvoir avancer !
 
+{Logan} Et pour parcourrir un peu ce process, on a rien trouvé de mieux que de se baser sur un exemple
+
 */
