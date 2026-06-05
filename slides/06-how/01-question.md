@@ -68,6 +68,8 @@ DOUTE:Logan ==> J'ai l'impression que cette phrase n'a pas été supprimer avec 
 
 /*
 
-{Logan} **TRANSITION** Bon, ok, on a une question ... mais tu ne dis pas grand chose du contexte dans lequel prendre cette décision ...
+{Logan} Bon, ok, on a une question ... mais tu ne dis pas grand chose du contexte dans lequel prendre cette décision ...
+
+**TRANSITION**
 
 */

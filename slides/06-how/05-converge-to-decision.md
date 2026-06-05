@@ -15,11 +15,6 @@
 
 /*
 
-Au début j'étais complexé de lire des ADR ultra complet.  
-Je ne me sentais pas à la hauteur de produire de tel artefact.  
-Mais une décision d'architecture est en fait un processus itératif et parfois long (quand on a le temps).  
-Un peu comme une architecture finalement, elle ne se construit pas en 1 jour.
-
 DOUTE:Logan ==> Je sais que c'est un aspect hyper important de l'ADR mais si on le met dans la partie contexte, il va devenir obèse.
 DOUTE:Logan ==> Je sais pas trop où le mettre, donc je le pose là pour l'instant.
 DOUTE:Logan ==> Est-ce qu'il faut le split en deux : 1 en fin de context et 1 en début de décision.

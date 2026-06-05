@@ -12,7 +12,7 @@
 
 * Exigences fonctionnelles
 * Exigences non-fonctionnelles
-* Ordre de grandeur des volumes
+* Volumes (en ordre de grandeur)
 * Contraintes de l'écosystème
 * Principes de l'équipe
 * <span style="color: rgb(138, 160, 167)">Décisions précédentes</span>
@@ -78,6 +78,8 @@ Vous avez maintenant la capacité de revoir également ces décisions pour en é
 Vous maitrisez maintenant les impacts décisionnels en chaine.
 
 Et si on pousse le vice encore plus loin, certains outils documentaire comme Obsidian offre une représentation graphique des liens entre documents.
+
+{Logan} Un avantage de creuser un plus le contexte est de potentiellement vous faire prendre conscience que vous êtes dans un domaine Complex voire chaotique ==> Par exemple si vous n'arrivez pas à identifier les indicateurs mesurables.
 
 {Nicolas} **TRANSITION**
 
@@ -159,7 +161,7 @@ META:Logan ==> Là on montre un anti-pattern, c'est cool
 
 /*
 
-{Logan} Décompléxez vous quant à la pertinence de ce context.
+{Logan} Décompléxez vous quant à l'hexaistivité de ce context.
 
 {Logan} Je vous rassure, personnellement, je n'arrive jamais à construire le contexte du premier coup.
 

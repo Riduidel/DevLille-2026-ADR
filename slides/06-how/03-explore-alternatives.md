@@ -14,32 +14,14 @@ Ces alternatives correspondent dans l'ordre aux points du contexte
 
 /*
 
-DOUTE:Logan ==> Je suis pas sur de comprendre la partie "correspondent dans l'ordre aux points du contexte"
-DOUTE:Logan ==> Du coup, je suis un peu perdu dans l'intention de cette slide.
-DOUTE:Logan ==> Je pense que je n'arrive pas à avoir l'image mentale que tu essayes de projeter.
-
-{Logan} Ça c'est la partie un peu créative que j'affectionne.
-
-{Logan} C'est là qu'il va falloir imaginer des solutions qui respectent l'ensemble des éléments qui contraignent la décision d'architecture.
-
-{Logan} Une des premières alternatives que j'aime bien poser en général, c'est : "NE RIEN FAIRE"
-
-{Logan} Ne rien faire est souvent une option négligée et pourtant viable dans certains cas.
-
-{Logan} Ça permet de mettre en évidence les "risques à ne pas faire".
+{Logan} Ça c'est la partie un peu créative que j'affectionne.  
+{Logan} C'est là qu'il va falloir imaginer des solutions qui respectent l'ensemble des éléments qui contraignent la décision d'architecture en utilisant une technique de l'entonoir.
 
 {Logan} Une phrase que je répète souvent, c'est : "NE RIEN FAIRE EST TOUJOURS UNE OPTION".
+{Logan} Ne rien faire est souvent une option négligée et pourtant viable dans certains cas.  
+{Logan} Ça permet de mettre en évidence les "risques à ne pas faire".  
 
 {Logan} **TRANSISTION** Si on reprend l'exemple de ton besoin de stocker de l'information, tu explorerais quoi à peu prêt comme alternatives ?
-
-DOUTE:Logan ==> Faut-il vraiment aller dans cette direction ici en-dessous ?
-DOUTE:Logan ==> Quel serait la bonne orientation pour basculer de la théorie à la pratique ?
-
-{Logan} Souvenez-vous, à la base, la question c'était "Quelle BDD choisir ?", on se retrouve, après avoir bien cadrer la décision à prendre, avec des considérations d'**indexation multi-dimensionnelle**, d'**agrégation de données**, de **timeseries** et du **pré-calcul ou calcul à la volée**.
-
-{Logan} Donc il semblerait que la décision soit un poil plus large que le simple choix de la BDD.
-
-<== DOUTE:Logan
 
 */
 
