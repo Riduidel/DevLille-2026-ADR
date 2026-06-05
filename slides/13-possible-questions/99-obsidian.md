@@ -1,4 +1,4 @@
-## Question - Exemple liens ADRs dans Obsidian
+## Exemple liens ADRs dans Obsidian
 
 !image(../images/decision_revision_impact.png, , , 400)
 

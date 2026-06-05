@@ -1,4 +1,4 @@
-## Question - et l'evaluation du coût dans tout ça ?
+## Et l'evaluation du coût dans tout ça ?
 
 Étrangement, le coût n'est pas abordé dans cette préz.
 À quel moment vous mettez ce critère dans la balance ?

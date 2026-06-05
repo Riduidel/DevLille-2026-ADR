@@ -1,4 +1,4 @@
-## Question - qui décide en fin de compte ?
+## Qui décide en fin de compte ?
 
 On a parlé de processus mais pas vraiment d'acteur.
 On a vaguement parlé des experts, mais pas plus.
